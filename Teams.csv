@@ -1,0 +1,3724 @@
+;matches_home_team_id;home_team_name
+1;T-30;France
+2;T-30;France
+3;T-30;France
+4;T-30;France
+5;T-30;France
+6;T-83;United States
+7;T-83;United States
+8;T-83;United States
+9;T-87;Yugoslavia
+10;T-87;Yugoslavia
+11;T-87;Yugoslavia
+12;T-61;Romania
+13;T-61;Romania
+14;T-61;Romania
+15;T-61;Romania
+16;T-03;Argentina
+17;T-13;Chile
+18;T-13;Chile
+19;T-13;Chile
+20;T-87;Yugoslavia
+21;T-87;Yugoslavia
+22;T-87;Yugoslavia
+23;T-87;Yugoslavia
+24;T-83;United States
+25;T-83;United States
+26;T-83;United States
+27;T-84;Uruguay
+28;T-13;Chile
+29;T-03;Argentina
+30;T-03;Argentina
+31;T-03;Argentina
+32;T-03;Argentina
+33;T-03;Argentina
+34;T-03;Argentina
+35;T-03;Argentina
+36;T-03;Argentina
+37;T-03;Argentina
+38;T-09;Brazil
+39;T-09;Brazil
+40;T-09;Brazil
+41;T-09;Brazil
+42;T-55;Paraguay
+43;T-84;Uruguay
+44;T-84;Uruguay
+45;T-84;Uruguay
+46;T-84;Uruguay
+47;T-03;Argentina
+48;T-03;Argentina
+49;T-03;Argentina
+50;T-03;Argentina
+51;T-03;Argentina
+52;T-03;Argentina
+53;T-03;Argentina
+54;T-03;Argentina
+55;T-03;Argentina
+56;T-03;Argentina
+57;T-03;Argentina
+58;T-84;Uruguay
+59;T-84;Uruguay
+60;T-84;Uruguay
+61;T-84;Uruguay
+62;T-84;Uruguay
+63;T-84;Uruguay
+64;T-84;Uruguay
+65;T-84;Uruguay
+66;T-84;Uruguay
+67;T-84;Uruguay
+68;T-84;Uruguay
+69;T-84;Uruguay
+70;T-84;Uruguay
+71;T-05;Austria
+72;T-05;Austria
+73;T-05;Austria
+74;T-05;Austria
+75;T-05;Austria
+76;T-21;Czechoslovakia
+77;T-21;Czechoslovakia
+78;T-21;Czechoslovakia
+79;T-31;Germany
+80;T-31;Germany
+81;T-31;Germany
+82;T-31;Germany
+83;T-31;Germany
+84;T-31;Germany
+85;T-31;Germany
+86;T-36;Hungary
+87;T-36;Hungary
+88;T-36;Hungary
+89;T-36;Hungary
+90;T-36;Hungary
+91;T-36;Hungary
+92;T-41;Italy
+93;T-41;Italy
+94;T-41;Italy
+95;T-41;Italy
+96;T-41;Italy
+97;T-41;Italy
+98;T-41;Italy
+99;T-41;Italy
+100;T-73;Spain
+101;T-73;Spain
+102;T-73;Spain
+103;T-73;Spain
+104;T-74;Sweden
+105;T-74;Sweden
+106;T-74;Sweden
+107;T-74;Sweden
+108;T-74;Sweden
+109;T-75;Switzerland
+110;T-75;Switzerland
+111;T-75;Switzerland
+112;T-75;Switzerland
+113;T-75;Switzerland
+114;T-05;Austria
+115;T-05;Austria
+116;T-05;Austria
+117;T-21;Czechoslovakia
+118;T-21;Czechoslovakia
+119;T-21;Czechoslovakia
+120;T-21;Czechoslovakia
+121;T-21;Czechoslovakia
+122;T-31;Germany
+123;T-31;Germany
+124;T-31;Germany
+125;T-41;Italy
+126;T-41;Italy
+127;T-41;Italy
+128;T-21;Czechoslovakia
+129;T-21;Czechoslovakia
+130;T-21;Czechoslovakia
+131;T-21;Czechoslovakia
+132;T-41;Italy
+133;T-31;Germany
+134;T-31;Germany
+135;T-31;Germany
+136;T-31;Germany
+137;T-31;Germany
+138;T-41;Italy
+139;T-41;Italy
+140;T-41;Italy
+141;T-75;Switzerland
+142;T-75;Switzerland
+143;T-19;Cuba
+144;T-19;Cuba
+145;T-19;Cuba
+146;T-19;Cuba
+147;T-19;Cuba
+148;T-19;Cuba
+149;T-30;France
+150;T-30;France
+151;T-30;France
+152;T-30;France
+153;T-36;Hungary
+154;T-36;Hungary
+155;T-36;Hungary
+156;T-36;Hungary
+157;T-36;Hungary
+158;T-36;Hungary
+159;T-41;Italy
+160;T-41;Italy
+161;T-41;Italy
+162;T-09;Brazil
+163;T-09;Brazil
+164;T-09;Brazil
+165;T-09;Brazil
+166;T-09;Brazil
+167;T-09;Brazil
+168;T-09;Brazil
+169;T-09;Brazil
+170;T-09;Brazil
+171;T-09;Brazil
+172;T-09;Brazil
+173;T-21;Czechoslovakia
+174;T-21;Czechoslovakia
+175;T-21;Czechoslovakia
+176;T-19;Cuba
+177;T-19;Cuba
+178;T-19;Cuba
+179;T-75;Switzerland
+180;T-75;Switzerland
+181;T-75;Switzerland
+182;T-75;Switzerland
+183;T-75;Switzerland
+184;T-75;Switzerland
+185;T-09;Brazil
+186;T-09;Brazil
+187;T-36;Hungary
+188;T-36;Hungary
+189;T-41;Italy
+190;T-41;Italy
+191;T-41;Italy
+192;T-41;Italy
+193;T-74;Sweden
+194;T-74;Sweden
+195;T-74;Sweden
+196;T-74;Sweden
+197;T-74;Sweden
+198;T-74;Sweden
+199;T-74;Sweden
+200;T-74;Sweden
+201;T-09;Brazil
+202;T-09;Brazil
+203;T-09;Brazil
+204;T-36;Hungary
+205;T-36;Hungary
+206;T-36;Hungary
+207;T-36;Hungary
+208;T-36;Hungary
+209;T-36;Hungary
+210;T-41;Italy
+211;T-41;Italy
+212;T-41;Italy
+213;T-09;Brazil
+214;T-09;Brazil
+215;T-09;Brazil
+216;T-09;Brazil
+217;T-09;Brazil
+218;T-09;Brazil
+219;T-41;Italy
+220;T-41;Italy
+221;T-41;Italy
+222;T-41;Italy
+223;T-41;Italy
+224;T-41;Italy
+225;T-09;Brazil
+226;T-09;Brazil
+227;T-09;Brazil
+228;T-09;Brazil
+229;T-87;Yugoslavia
+230;T-87;Yugoslavia
+231;T-87;Yugoslavia
+232;T-28;England
+233;T-28;England
+234;T-73;Spain
+235;T-73;Spain
+236;T-73;Spain
+237;T-73;Spain
+238;T-74;Sweden
+239;T-74;Sweden
+240;T-74;Sweden
+241;T-74;Sweden
+242;T-74;Sweden
+243;T-09;Brazil
+244;T-09;Brazil
+245;T-09;Brazil
+246;T-09;Brazil
+247;T-87;Yugoslavia
+248;T-87;Yugoslavia
+249;T-87;Yugoslavia
+250;T-87;Yugoslavia
+251;T-87;Yugoslavia
+252;T-73;Spain
+253;T-73;Spain
+254;T-83;United States
+255;T-74;Sweden
+256;T-74;Sweden
+257;T-74;Sweden
+258;T-74;Sweden
+259;T-09;Brazil
+260;T-09;Brazil
+261;T-13;Chile
+262;T-13;Chile
+263;T-13;Chile
+264;T-13;Chile
+265;T-13;Chile
+266;T-13;Chile
+267;T-13;Chile
+268;T-73;Spain
+269;T-41;Italy
+270;T-41;Italy
+271;T-84;Uruguay
+272;T-84;Uruguay
+273;T-84;Uruguay
+274;T-84;Uruguay
+275;T-84;Uruguay
+276;T-84;Uruguay
+277;T-84;Uruguay
+278;T-84;Uruguay
+279;T-75;Switzerland
+280;T-75;Switzerland
+281;T-75;Switzerland
+282;T-09;Brazil
+283;T-09;Brazil
+284;T-09;Brazil
+285;T-09;Brazil
+286;T-09;Brazil
+287;T-09;Brazil
+288;T-09;Brazil
+289;T-09;Brazil
+290;T-84;Uruguay
+291;T-84;Uruguay
+292;T-84;Uruguay
+293;T-84;Uruguay
+294;T-09;Brazil
+295;T-09;Brazil
+296;T-09;Brazil
+297;T-09;Brazil
+298;T-09;Brazil
+299;T-09;Brazil
+300;T-09;Brazil
+301;T-84;Uruguay
+302;T-84;Uruguay
+303;T-84;Uruguay
+304;T-84;Uruguay
+305;T-84;Uruguay
+306;T-74;Sweden
+307;T-74;Sweden
+308;T-74;Sweden
+309;T-74;Sweden
+310;T-84;Uruguay
+311;T-84;Uruguay
+312;T-84;Uruguay
+313;T-09;Brazil
+314;T-09;Brazil
+315;T-09;Brazil
+316;T-09;Brazil
+317;T-09;Brazil
+318;T-87;Yugoslavia
+319;T-05;Austria
+320;T-84;Uruguay
+321;T-84;Uruguay
+322;T-75;Switzerland
+323;T-75;Switzerland
+324;T-75;Switzerland
+325;T-36;Hungary
+326;T-36;Hungary
+327;T-36;Hungary
+328;T-36;Hungary
+329;T-36;Hungary
+330;T-36;Hungary
+331;T-36;Hungary
+332;T-36;Hungary
+333;T-36;Hungary
+334;T-86;West Germany
+335;T-86;West Germany
+336;T-86;West Germany
+337;T-86;West Germany
+338;T-86;West Germany
+339;T-28;England
+340;T-28;England
+341;T-28;England
+342;T-28;England
+343;T-28;England
+344;T-28;England
+345;T-28;England
+346;T-28;England
+347;T-84;Uruguay
+348;T-84;Uruguay
+349;T-84;Uruguay
+350;T-84;Uruguay
+351;T-84;Uruguay
+352;T-84;Uruguay
+353;T-84;Uruguay
+354;T-09;Brazil
+355;T-09;Brazil
+356;T-05;Austria
+357;T-05;Austria
+358;T-05;Austria
+359;T-05;Austria
+360;T-05;Austria
+361;T-30;France
+362;T-30;France
+363;T-30;France
+364;T-30;France
+365;T-30;France
+366;T-36;Hungary
+367;T-36;Hungary
+368;T-36;Hungary
+369;T-36;Hungary
+370;T-36;Hungary
+371;T-36;Hungary
+372;T-36;Hungary
+373;T-36;Hungary
+374;T-36;Hungary
+375;T-36;Hungary
+376;T-36;Hungary
+377;T-80;Turkey
+378;T-80;Turkey
+379;T-80;Turkey
+380;T-80;Turkey
+381;T-80;Turkey
+382;T-80;Turkey
+383;T-80;Turkey
+384;T-41;Italy
+385;T-41;Italy
+386;T-41;Italy
+387;T-41;Italy
+388;T-41;Italy
+389;T-28;England
+390;T-28;England
+391;T-86;West Germany
+392;T-86;West Germany
+393;T-86;West Germany
+394;T-86;West Germany
+395;T-86;West Germany
+396;T-86;West Germany
+397;T-86;West Germany
+398;T-86;West Germany
+399;T-86;West Germany
+400;T-75;Switzerland
+401;T-75;Switzerland
+402;T-75;Switzerland
+403;T-75;Switzerland
+404;T-75;Switzerland
+405;T-05;Austria
+406;T-05;Austria
+407;T-05;Austria
+408;T-05;Austria
+409;T-05;Austria
+410;T-05;Austria
+411;T-05;Austria
+412;T-05;Austria
+413;T-05;Austria
+414;T-05;Austria
+415;T-05;Austria
+416;T-05;Austria
+417;T-84;Uruguay
+418;T-84;Uruguay
+419;T-84;Uruguay
+420;T-84;Uruguay
+421;T-84;Uruguay
+422;T-84;Uruguay
+423;T-36;Hungary
+424;T-36;Hungary
+425;T-36;Hungary
+426;T-36;Hungary
+427;T-36;Hungary
+428;T-36;Hungary
+429;T-86;West Germany
+430;T-86;West Germany
+431;T-36;Hungary
+432;T-36;Hungary
+433;T-36;Hungary
+434;T-36;Hungary
+435;T-36;Hungary
+436;T-36;Hungary
+437;T-86;West Germany
+438;T-86;West Germany
+439;T-86;West Germany
+440;T-86;West Germany
+441;T-86;West Germany
+442;T-86;West Germany
+443;T-86;West Germany
+444;T-05;Austria
+445;T-05;Austria
+446;T-05;Austria
+447;T-05;Austria
+448;T-86;West Germany
+449;T-86;West Germany
+450;T-86;West Germany
+451;T-86;West Germany
+452;T-86;West Germany
+453;T-74;Sweden
+454;T-74;Sweden
+455;T-74;Sweden
+456;T-03;Argentina
+457;T-03;Argentina
+458;T-03;Argentina
+459;T-03;Argentina
+460;T-52;Northern Ireland
+461;T-30;France
+462;T-30;France
+463;T-30;France
+464;T-30;France
+465;T-30;France
+466;T-30;France
+467;T-30;France
+468;T-30;France
+469;T-30;France
+470;T-30;France
+471;T-87;Yugoslavia
+472;T-87;Yugoslavia
+473;T-36;Hungary
+474;T-36;Hungary
+475;T-09;Brazil
+476;T-09;Brazil
+477;T-09;Brazil
+478;T-72;Soviet Union
+479;T-72;Soviet Union
+480;T-72;Soviet Union
+481;T-72;Soviet Union
+482;T-03;Argentina
+483;T-03;Argentina
+484;T-03;Argentina
+485;T-03;Argentina
+486;T-86;West Germany
+487;T-86;West Germany
+488;T-86;West Germany
+489;T-86;West Germany
+490;T-55;Paraguay
+491;T-55;Paraguay
+492;T-55;Paraguay
+493;T-55;Paraguay
+494;T-55;Paraguay
+495;T-87;Yugoslavia
+496;T-87;Yugoslavia
+497;T-87;Yugoslavia
+498;T-87;Yugoslavia
+499;T-87;Yugoslavia
+500;T-46;Mexico
+501;T-46;Mexico
+502;T-09;Brazil
+503;T-72;Soviet Union
+504;T-72;Soviet Union
+505;T-74;Sweden
+506;T-74;Sweden
+507;T-74;Sweden
+508;T-74;Sweden
+509;T-21;Czechoslovakia
+510;T-21;Czechoslovakia
+511;T-21;Czechoslovakia
+512;T-21;Czechoslovakia
+513;T-21;Czechoslovakia
+514;T-21;Czechoslovakia
+515;T-21;Czechoslovakia
+516;T-86;West Germany
+517;T-86;West Germany
+518;T-86;West Germany
+519;T-86;West Germany
+520;T-30;France
+521;T-30;France
+522;T-30;France
+523;T-55;Paraguay
+524;T-55;Paraguay
+525;T-55;Paraguay
+526;T-55;Paraguay
+527;T-55;Paraguay
+528;T-55;Paraguay
+529;T-36;Hungary
+530;T-36;Hungary
+531;T-36;Hungary
+532;T-36;Hungary
+533;T-09;Brazil
+534;T-09;Brazil
+535;T-28;England
+536;T-28;England
+537;T-28;England
+538;T-28;England
+539;T-52;Northern Ireland
+540;T-52;Northern Ireland
+541;T-52;Northern Ireland
+542;T-85;Wales
+543;T-85;Wales
+544;T-85;Wales
+545;T-72;Soviet Union
+546;T-09;Brazil
+547;T-30;France
+548;T-30;France
+549;T-30;France
+550;T-30;France
+551;T-74;Sweden
+552;T-74;Sweden
+553;T-86;West Germany
+554;T-09;Brazil
+555;T-09;Brazil
+556;T-09;Brazil
+557;T-09;Brazil
+558;T-09;Brazil
+559;T-09;Brazil
+560;T-09;Brazil
+561;T-74;Sweden
+562;T-74;Sweden
+563;T-74;Sweden
+564;T-74;Sweden
+565;T-30;France
+566;T-30;France
+567;T-30;France
+568;T-30;France
+569;T-30;France
+570;T-30;France
+571;T-30;France
+572;T-30;France
+573;T-30;France
+574;T-09;Brazil
+575;T-09;Brazil
+576;T-09;Brazil
+577;T-09;Brazil
+578;T-09;Brazil
+579;T-09;Brazil
+580;T-09;Brazil
+581;T-84;Uruguay
+582;T-84;Uruguay
+583;T-84;Uruguay
+584;T-13;Chile
+585;T-13;Chile
+586;T-13;Chile
+587;T-13;Chile
+588;T-09;Brazil
+589;T-09;Brazil
+590;T-03;Argentina
+591;T-72;Soviet Union
+592;T-72;Soviet Union
+593;T-86;West Germany
+594;T-21;Czechoslovakia
+595;T-36;Hungary
+596;T-36;Hungary
+597;T-36;Hungary
+598;T-87;Yugoslavia
+599;T-87;Yugoslavia
+600;T-87;Yugoslavia
+601;T-87;Yugoslavia
+602;T-13;Chile
+603;T-13;Chile
+604;T-09;Brazil
+605;T-28;England
+606;T-28;England
+607;T-28;England
+608;T-28;England
+609;T-72;Soviet Union
+610;T-72;Soviet Union
+611;T-72;Soviet Union
+612;T-72;Soviet Union
+613;T-72;Soviet Union
+614;T-72;Soviet Union
+615;T-72;Soviet Union
+616;T-72;Soviet Union
+617;T-86;West Germany
+618;T-86;West Germany
+619;T-86;West Germany
+620;T-73;Spain
+621;T-36;Hungary
+622;T-36;Hungary
+623;T-36;Hungary
+624;T-36;Hungary
+625;T-36;Hungary
+626;T-36;Hungary
+627;T-36;Hungary
+628;T-72;Soviet Union
+629;T-72;Soviet Union
+630;T-72;Soviet Union
+631;T-86;West Germany
+632;T-86;West Germany
+633;T-09;Brazil
+634;T-09;Brazil
+635;T-09;Brazil
+636;T-36;Hungary
+637;T-87;Yugoslavia
+638;T-87;Yugoslavia
+639;T-87;Yugoslavia
+640;T-87;Yugoslavia
+641;T-87;Yugoslavia
+642;T-41;Italy
+643;T-41;Italy
+644;T-41;Italy
+645;T-46;Mexico
+646;T-46;Mexico
+647;T-46;Mexico
+648;T-46;Mexico
+649;T-28;England
+650;T-09;Brazil
+651;T-09;Brazil
+652;T-09;Brazil
+653;T-09;Brazil
+654;T-13;Chile
+655;T-13;Chile
+656;T-13;Chile
+657;T-21;Czechoslovakia
+658;T-87;Yugoslavia
+659;T-09;Brazil
+660;T-09;Brazil
+661;T-09;Brazil
+662;T-09;Brazil
+663;T-09;Brazil
+664;T-09;Brazil
+665;T-21;Czechoslovakia
+666;T-21;Czechoslovakia
+667;T-21;Czechoslovakia
+668;T-21;Czechoslovakia
+669;T-13;Chile
+670;T-09;Brazil
+671;T-09;Brazil
+672;T-09;Brazil
+673;T-09;Brazil
+674;T-28;England
+675;T-86;West Germany
+676;T-86;West Germany
+677;T-86;West Germany
+678;T-86;West Germany
+679;T-86;West Germany
+680;T-09;Brazil
+681;T-09;Brazil
+682;T-72;Soviet Union
+683;T-72;Soviet Union
+684;T-72;Soviet Union
+685;T-30;France
+686;T-30;France
+687;T-03;Argentina
+688;T-03;Argentina
+689;T-03;Argentina
+690;T-58;Portugal
+691;T-58;Portugal
+692;T-58;Portugal
+693;T-58;Portugal
+694;T-41;Italy
+695;T-41;Italy
+696;T-84;Uruguay
+697;T-84;Uruguay
+698;T-84;Uruguay
+699;T-73;Spain
+700;T-73;Spain
+701;T-73;Spain
+702;T-36;Hungary
+703;T-36;Hungary
+704;T-36;Hungary
+705;T-36;Hungary
+706;T-13;Chile
+707;T-13;Chile
+708;T-03;Argentina
+709;T-58;Portugal
+710;T-58;Portugal
+711;T-58;Portugal
+712;T-72;Soviet Union
+713;T-28;England
+714;T-28;England
+715;T-46;Mexico
+716;T-03;Argentina
+717;T-03;Argentina
+718;T-58;Portugal
+719;T-58;Portugal
+720;T-58;Portugal
+721;T-58;Portugal
+722;T-51;North Korea
+723;T-28;England
+724;T-28;England
+725;T-86;West Germany
+726;T-86;West Germany
+727;T-86;West Germany
+728;T-36;Hungary
+729;T-36;Hungary
+730;T-36;Hungary
+731;T-36;Hungary
+732;T-72;Soviet Union
+733;T-72;Soviet Union
+734;T-72;Soviet Union
+735;T-28;England
+736;T-58;Portugal
+737;T-58;Portugal
+738;T-58;Portugal
+739;T-58;Portugal
+740;T-58;Portugal
+741;T-58;Portugal
+742;T-58;Portugal
+743;T-58;Portugal
+744;T-72;Soviet Union
+745;T-72;Soviet Union
+746;T-72;Soviet Union
+747;T-86;West Germany
+748;T-86;West Germany
+749;T-86;West Germany
+750;T-86;West Germany
+751;T-86;West Germany
+752;T-86;West Germany
+753;T-86;West Germany
+754;T-28;England
+755;T-28;England
+756;T-28;England
+757;T-58;Portugal
+758;T-58;Portugal
+759;T-58;Portugal
+760;T-28;England
+761;T-28;England
+762;T-28;England
+763;T-28;England
+764;T-28;England
+765;T-28;England
+766;T-46;Mexico
+767;T-84;Uruguay
+768;T-84;Uruguay
+769;T-28;England
+770;T-56;Peru
+771;T-56;Peru
+772;T-56;Peru
+773;T-56;Peru
+774;T-56;Peru
+775;T-06;Belgium
+776;T-06;Belgium
+777;T-06;Belgium
+778;T-41;Italy
+779;T-09;Brazil
+780;T-09;Brazil
+781;T-09;Brazil
+782;T-09;Brazil
+783;T-09;Brazil
+784;T-86;West Germany
+785;T-86;West Germany
+786;T-86;West Germany
+787;T-72;Soviet Union
+788;T-72;Soviet Union
+789;T-72;Soviet Union
+790;T-72;Soviet Union
+791;T-72;Soviet Union
+792;T-84;Uruguay
+793;T-61;Romania
+794;T-61;Romania
+795;T-61;Romania
+796;T-56;Peru
+797;T-56;Peru
+798;T-56;Peru
+799;T-46;Mexico
+800;T-46;Mexico
+801;T-46;Mexico
+802;T-46;Mexico
+803;T-74;Sweden
+804;T-74;Sweden
+805;T-09;Brazil
+806;T-86;West Germany
+807;T-86;West Germany
+808;T-86;West Germany
+809;T-86;West Germany
+810;T-86;West Germany
+811;T-86;West Germany
+812;T-86;West Germany
+813;T-72;Soviet Union
+814;T-72;Soviet Union
+815;T-74;Sweden
+816;T-09;Brazil
+817;T-09;Brazil
+818;T-09;Brazil
+819;T-09;Brazil
+820;T-09;Brazil
+821;T-86;West Germany
+822;T-86;West Germany
+823;T-86;West Germany
+824;T-86;West Germany
+825;T-46;Mexico
+826;T-41;Italy
+827;T-28;England
+828;T-10;Bulgaria
+829;T-10;Bulgaria
+830;T-09;Brazil
+831;T-09;Brazil
+832;T-09;Brazil
+833;T-09;Brazil
+834;T-09;Brazil
+835;T-09;Brazil
+836;T-41;Italy
+837;T-41;Italy
+838;T-41;Italy
+839;T-41;Italy
+840;T-41;Italy
+841;T-72;Soviet Union
+842;T-86;West Germany
+843;T-86;West Germany
+844;T-86;West Germany
+845;T-86;West Germany
+846;T-86;West Germany
+847;T-09;Brazil
+848;T-09;Brazil
+849;T-09;Brazil
+850;T-09;Brazil
+851;T-41;Italy
+852;T-41;Italy
+853;T-41;Italy
+854;T-41;Italy
+855;T-41;Italy
+856;T-41;Italy
+857;T-41;Italy
+858;T-86;West Germany
+859;T-09;Brazil
+860;T-09;Brazil
+861;T-09;Brazil
+862;T-09;Brazil
+863;T-09;Brazil
+864;T-09;Brazil
+865;T-86;West Germany
+866;T-24;East Germany
+867;T-24;East Germany
+868;T-88;Zaire
+869;T-88;Zaire
+870;T-74;Sweden
+871;T-84;Uruguay
+872;T-84;Uruguay
+873;T-41;Italy
+874;T-41;Italy
+875;T-41;Italy
+876;T-41;Italy
+877;T-57;Poland
+878;T-57;Poland
+879;T-57;Poland
+880;T-57;Poland
+881;T-57;Poland
+882;T-04;Australia
+883;T-04;Australia
+884;T-04;Australia
+885;T-13;Chile
+886;T-13;Chile
+887;T-64;Scotland
+888;T-87;Yugoslavia
+889;T-87;Yugoslavia
+890;T-87;Yugoslavia
+891;T-87;Yugoslavia
+892;T-87;Yugoslavia
+893;T-87;Yugoslavia
+894;T-87;Yugoslavia
+895;T-87;Yugoslavia
+896;T-87;Yugoslavia
+897;T-10;Bulgaria
+898;T-10;Bulgaria
+899;T-48;Netherlands
+900;T-03;Argentina
+901;T-03;Argentina
+902;T-34;Haiti
+903;T-34;Haiti
+904;T-34;Haiti
+905;T-34;Haiti
+906;T-34;Haiti
+907;T-34;Haiti
+908;T-34;Haiti
+909;T-04;Australia
+910;T-64;Scotland
+911;T-64;Scotland
+912;T-88;Zaire
+913;T-88;Zaire
+914;T-88;Zaire
+915;T-24;East Germany
+916;T-10;Bulgaria
+917;T-10;Bulgaria
+918;T-10;Bulgaria
+919;T-10;Bulgaria
+920;T-10;Bulgaria
+921;T-74;Sweden
+922;T-74;Sweden
+923;T-74;Sweden
+924;T-03;Argentina
+925;T-03;Argentina
+926;T-03;Argentina
+927;T-03;Argentina
+928;T-03;Argentina
+929;T-57;Poland
+930;T-57;Poland
+931;T-57;Poland
+932;T-87;Yugoslavia
+933;T-87;Yugoslavia
+934;T-09;Brazil
+935;T-48;Netherlands
+936;T-48;Netherlands
+937;T-48;Netherlands
+938;T-48;Netherlands
+939;T-74;Sweden
+940;T-03;Argentina
+941;T-03;Argentina
+942;T-03;Argentina
+943;T-24;East Germany
+944;T-24;East Germany
+945;T-57;Poland
+946;T-57;Poland
+947;T-57;Poland
+948;T-86;West Germany
+949;T-86;West Germany
+950;T-86;West Germany
+951;T-86;West Germany
+952;T-86;West Germany
+953;T-86;West Germany
+954;T-57;Poland
+955;T-03;Argentina
+956;T-03;Argentina
+957;T-48;Netherlands
+958;T-48;Netherlands
+959;T-74;Sweden
+960;T-74;Sweden
+961;T-74;Sweden
+962;T-09;Brazil
+963;T-48;Netherlands
+964;T-48;Netherlands
+965;T-48;Netherlands
+966;T-86;West Germany
+967;T-41;Italy
+968;T-41;Italy
+969;T-41;Italy
+970;T-79;Tunisia
+971;T-79;Tunisia
+972;T-79;Tunisia
+973;T-79;Tunisia
+974;T-03;Argentina
+975;T-03;Argentina
+976;T-03;Argentina
+977;T-05;Austria
+978;T-05;Austria
+979;T-05;Austria
+980;T-09;Brazil
+981;T-09;Brazil
+982;T-48;Netherlands
+983;T-48;Netherlands
+984;T-48;Netherlands
+985;T-56;Peru
+986;T-56;Peru
+987;T-56;Peru
+988;T-56;Peru
+989;T-41;Italy
+990;T-41;Italy
+991;T-41;Italy
+992;T-41;Italy
+993;T-57;Poland
+994;T-86;West Germany
+995;T-86;West Germany
+996;T-86;West Germany
+997;T-86;West Germany
+998;T-86;West Germany
+999;T-86;West Germany
+1000;T-03;Argentina
+1001;T-03;Argentina
+1002;T-03;Argentina
+1003;T-05;Austria
+1004;T-09;Brazil
+1005;T-48;Netherlands
+1006;T-64;Scotland
+1007;T-64;Scotland
+1008;T-30;France
+1009;T-30;France
+1010;T-30;France
+1011;T-30;France
+1012;T-57;Poland
+1013;T-57;Poland
+1014;T-57;Poland
+1015;T-57;Poland
+1016;T-86;West Germany
+1017;T-03;Argentina
+1018;T-09;Brazil
+1019;T-73;Spain
+1020;T-56;Peru
+1021;T-56;Peru
+1022;T-56;Peru
+1023;T-56;Peru
+1024;T-56;Peru
+1025;T-64;Scotland
+1026;T-64;Scotland
+1027;T-64;Scotland
+1028;T-64;Scotland
+1029;T-64;Scotland
+1030;T-05;Austria
+1031;T-05;Austria
+1032;T-05;Austria
+1033;T-05;Austria
+1034;T-05;Austria
+1035;T-05;Austria
+1036;T-41;Italy
+1037;T-09;Brazil
+1038;T-09;Brazil
+1039;T-09;Brazil
+1040;T-03;Argentina
+1041;T-03;Argentina
+1042;T-56;Peru
+1043;T-41;Italy
+1044;T-48;Netherlands
+1045;T-48;Netherlands
+1046;T-48;Netherlands
+1047;T-48;Netherlands
+1048;T-03;Argentina
+1049;T-05;Austria
+1050;T-05;Austria
+1051;T-05;Austria
+1052;T-05;Austria
+1053;T-05;Austria
+1054;T-41;Italy
+1055;T-41;Italy
+1056;T-41;Italy
+1057;T-09;Brazil
+1058;T-09;Brazil
+1059;T-09;Brazil
+1060;T-09;Brazil
+1061;T-03;Argentina
+1062;T-03;Argentina
+1063;T-03;Argentina
+1064;T-03;Argentina
+1065;T-03;Argentina
+1066;T-03;Argentina
+1067;T-09;Brazil
+1068;T-09;Brazil
+1069;T-09;Brazil
+1070;T-03;Argentina
+1071;T-03;Argentina
+1072;T-03;Argentina
+1073;T-03;Argentina
+1074;T-03;Argentina
+1075;T-41;Italy
+1076;T-09;Brazil
+1077;T-09;Brazil
+1078;T-09;Brazil
+1079;T-56;Peru
+1080;T-36;Hungary
+1081;T-36;Hungary
+1082;T-36;Hungary
+1083;T-36;Hungary
+1084;T-36;Hungary
+1085;T-36;Hungary
+1086;T-36;Hungary
+1087;T-36;Hungary
+1088;T-36;Hungary
+1089;T-36;Hungary
+1090;T-36;Hungary
+1091;T-64;Scotland
+1092;T-64;Scotland
+1093;T-64;Scotland
+1094;T-64;Scotland
+1095;T-64;Scotland
+1096;T-64;Scotland
+1097;T-64;Scotland
+1098;T-86;West Germany
+1099;T-86;West Germany
+1100;T-86;West Germany
+1101;T-28;England
+1102;T-28;England
+1103;T-28;England
+1104;T-28;England
+1105;T-73;Spain
+1106;T-73;Spain
+1107;T-13;Chile
+1108;T-21;Czechoslovakia
+1109;T-21;Czechoslovakia
+1110;T-87;Yugoslavia
+1111;T-41;Italy
+1112;T-41;Italy
+1113;T-03;Argentina
+1114;T-03;Argentina
+1115;T-03;Argentina
+1116;T-03;Argentina
+1117;T-03;Argentina
+1118;T-09;Brazil
+1119;T-09;Brazil
+1120;T-09;Brazil
+1121;T-09;Brazil
+1122;T-09;Brazil
+1123;T-57;Poland
+1124;T-06;Belgium
+1125;T-72;Soviet Union
+1126;T-72;Soviet Union
+1127;T-72;Soviet Union
+1128;T-86;West Germany
+1129;T-86;West Germany
+1130;T-86;West Germany
+1131;T-86;West Germany
+1132;T-86;West Germany
+1133;T-28;England
+1134;T-28;England
+1135;T-73;Spain
+1136;T-73;Spain
+1137;T-73;Spain
+1138;T-01;Algeria
+1139;T-01;Algeria
+1140;T-30;France
+1141;T-30;France
+1142;T-30;France
+1143;T-30;France
+1144;T-30;France
+1145;T-35;Honduras
+1146;T-35;Honduras
+1147;T-57;Poland
+1148;T-57;Poland
+1149;T-57;Poland
+1150;T-57;Poland
+1151;T-57;Poland
+1152;T-57;Poland
+1153;T-06;Belgium
+1154;T-06;Belgium
+1155;T-72;Soviet Union
+1156;T-72;Soviet Union
+1157;T-72;Soviet Union
+1158;T-72;Soviet Union
+1159;T-41;Italy
+1160;T-41;Italy
+1161;T-03;Argentina
+1162;T-03;Argentina
+1163;T-09;Brazil
+1164;T-09;Brazil
+1165;T-09;Brazil
+1166;T-09;Brazil
+1167;T-01;Algeria
+1168;T-01;Algeria
+1169;T-01;Algeria
+1170;T-01;Algeria
+1171;T-01;Algeria
+1172;T-30;France
+1173;T-30;France
+1174;T-35;Honduras
+1175;T-86;West Germany
+1176;T-28;England
+1177;T-73;Spain
+1178;T-05;Austria
+1179;T-57;Poland
+1180;T-57;Poland
+1181;T-57;Poland
+1182;T-41;Italy
+1183;T-41;Italy
+1184;T-41;Italy
+1185;T-86;West Germany
+1186;T-05;Austria
+1187;T-05;Austria
+1188;T-05;Austria
+1189;T-05;Austria
+1190;T-06;Belgium
+1191;T-03;Argentina
+1192;T-03;Argentina
+1193;T-03;Argentina
+1194;T-03;Argentina
+1195;T-86;West Germany
+1196;T-86;West Germany
+1197;T-86;West Germany
+1198;T-30;France
+1199;T-30;France
+1200;T-30;France
+1201;T-30;France
+1202;T-30;France
+1203;T-72;Soviet Union
+1204;T-41;Italy
+1205;T-41;Italy
+1206;T-41;Italy
+1207;T-41;Italy
+1208;T-41;Italy
+1209;T-73;Spain
+1210;T-57;Poland
+1211;T-57;Poland
+1212;T-86;West Germany
+1213;T-86;West Germany
+1214;T-86;West Germany
+1215;T-86;West Germany
+1216;T-86;West Germany
+1217;T-86;West Germany
+1218;T-57;Poland
+1219;T-57;Poland
+1220;T-57;Poland
+1221;T-57;Poland
+1222;T-57;Poland
+1223;T-41;Italy
+1224;T-41;Italy
+1225;T-41;Italy
+1226;T-41;Italy
+1227;T-10;Bulgaria
+1228;T-10;Bulgaria
+1229;T-73;Spain
+1230;T-12;Canada
+1231;T-03;Argentina
+1232;T-03;Argentina
+1233;T-03;Argentina
+1234;T-03;Argentina
+1235;T-72;Soviet Union
+1236;T-72;Soviet Union
+1237;T-72;Soviet Union
+1238;T-72;Soviet Union
+1239;T-72;Soviet Union
+1240;T-72;Soviet Union
+1241;T-47;Morocco
+1242;T-06;Belgium
+1243;T-06;Belgium
+1244;T-06;Belgium
+1245;T-01;Algeria
+1246;T-01;Algeria
+1247;T-58;Portugal
+1248;T-55;Paraguay
+1249;T-84;Uruguay
+1250;T-84;Uruguay
+1251;T-64;Scotland
+1252;T-41;Italy
+1253;T-41;Italy
+1254;T-30;France
+1255;T-30;France
+1256;T-71;South Korea
+1257;T-71;South Korea
+1258;T-36;Hungary
+1259;T-36;Hungary
+1260;T-09;Brazil
+1261;T-28;England
+1262;T-46;Mexico
+1263;T-46;Mexico
+1264;T-52;Northern Ireland
+1265;T-52;Northern Ireland
+1266;T-52;Northern Ireland
+1267;T-57;Poland
+1268;T-39;Iraq
+1269;T-39;Iraq
+1270;T-39;Iraq
+1271;T-86;West Germany
+1272;T-86;West Germany
+1273;T-86;West Germany
+1274;T-22;Denmark
+1275;T-22;Denmark
+1276;T-22;Denmark
+1277;T-22;Denmark
+1278;T-22;Denmark
+1279;T-22;Denmark
+1280;T-22;Denmark
+1281;T-36;Hungary
+1282;T-36;Hungary
+1283;T-36;Hungary
+1284;T-72;Soviet Union
+1285;T-72;Soviet Union
+1286;T-03;Argentina
+1287;T-03;Argentina
+1288;T-71;South Korea
+1289;T-71;South Korea
+1290;T-71;South Korea
+1291;T-71;South Korea
+1292;T-71;South Korea
+1293;T-39;Iraq
+1294;T-55;Paraguay
+1295;T-55;Paraguay
+1296;T-55;Paraguay
+1297;T-55;Paraguay
+1298;T-28;England
+1299;T-28;England
+1300;T-28;England
+1301;T-58;Portugal
+1302;T-58;Portugal
+1303;T-58;Portugal
+1304;T-58;Portugal
+1305;T-01;Algeria
+1306;T-01;Algeria
+1307;T-01;Algeria
+1308;T-52;Northern Ireland
+1309;T-52;Northern Ireland
+1310;T-52;Northern Ireland
+1311;T-22;Denmark
+1312;T-22;Denmark
+1313;T-64;Scotland
+1314;T-46;Mexico
+1315;T-46;Mexico
+1316;T-72;Soviet Union
+1317;T-72;Soviet Union
+1318;T-72;Soviet Union
+1319;T-72;Soviet Union
+1320;T-72;Soviet Union
+1321;T-72;Soviet Union
+1322;T-72;Soviet Union
+1323;T-09;Brazil
+1324;T-09;Brazil
+1325;T-09;Brazil
+1326;T-09;Brazil
+1327;T-03;Argentina
+1328;T-41;Italy
+1329;T-41;Italy
+1330;T-47;Morocco
+1331;T-28;England
+1332;T-28;England
+1333;T-28;England
+1334;T-22;Denmark
+1335;T-22;Denmark
+1336;T-22;Denmark
+1337;T-22;Denmark
+1338;T-22;Denmark
+1339;T-22;Denmark
+1340;T-09;Brazil
+1341;T-09;Brazil
+1342;T-86;West Germany
+1343;T-03;Argentina
+1344;T-03;Argentina
+1345;T-03;Argentina
+1346;T-73;Spain
+1347;T-73;Spain
+1348;T-30;France
+1349;T-30;France
+1350;T-03;Argentina
+1351;T-03;Argentina
+1352;T-06;Belgium
+1353;T-06;Belgium
+1354;T-06;Belgium
+1355;T-06;Belgium
+1356;T-06;Belgium
+1357;T-06;Belgium
+1358;T-03;Argentina
+1359;T-03;Argentina
+1360;T-03;Argentina
+1361;T-03;Argentina
+1362;T-03;Argentina
+1363;T-03;Argentina
+1364;T-72;Soviet Union
+1365;T-72;Soviet Union
+1366;T-82;United Arab Emirates
+1367;T-82;United Arab Emirates
+1368;T-41;Italy
+1369;T-83;United States
+1370;T-83;United States
+1371;T-83;United States
+1372;T-83;United States
+1373;T-83;United States
+1374;T-83;United States
+1375;T-09;Brazil
+1376;T-09;Brazil
+1377;T-09;Brazil
+1378;T-86;West Germany
+1379;T-86;West Germany
+1380;T-86;West Germany
+1381;T-86;West Germany
+1382;T-86;West Germany
+1383;T-17;Costa Rica
+1384;T-28;England
+1385;T-28;England
+1386;T-06;Belgium
+1387;T-06;Belgium
+1388;T-48;Netherlands
+1389;T-48;Netherlands
+1390;T-84;Uruguay
+1391;T-03;Argentina
+1392;T-03;Argentina
+1393;T-11;Cameroon
+1394;T-11;Cameroon
+1395;T-11;Cameroon
+1396;T-87;Yugoslavia
+1397;T-41;Italy
+1398;T-05;Austria
+1399;T-86;West Germany
+1400;T-86;West Germany
+1401;T-86;West Germany
+1402;T-86;West Germany
+1403;T-86;West Germany
+1404;T-86;West Germany
+1405;T-09;Brazil
+1406;T-74;Sweden
+1407;T-74;Sweden
+1408;T-74;Sweden
+1409;T-28;England
+1410;T-60;Republic of Ireland
+1411;T-06;Belgium
+1412;T-06;Belgium
+1413;T-06;Belgium
+1414;T-06;Belgium
+1415;T-71;South Korea
+1416;T-71;South Korea
+1417;T-71;South Korea
+1418;T-71;South Korea
+1419;T-03;Argentina
+1420;T-03;Argentina
+1421;T-11;Cameroon
+1422;T-11;Cameroon
+1423;T-11;Cameroon
+1424;T-11;Cameroon
+1425;T-86;West Germany
+1426;T-86;West Germany
+1427;T-87;Yugoslavia
+1428;T-87;Yugoslavia
+1429;T-87;Yugoslavia
+1430;T-87;Yugoslavia
+1431;T-87;Yugoslavia
+1432;T-05;Austria
+1433;T-05;Austria
+1434;T-05;Austria
+1435;T-41;Italy
+1436;T-41;Italy
+1437;T-09;Brazil
+1438;T-74;Sweden
+1439;T-74;Sweden
+1440;T-74;Sweden
+1441;T-06;Belgium
+1442;T-06;Belgium
+1443;T-06;Belgium
+1444;T-71;South Korea
+1445;T-28;England
+1446;T-60;Republic of Ireland
+1447;T-60;Republic of Ireland
+1448;T-11;Cameroon
+1449;T-11;Cameroon
+1450;T-11;Cameroon
+1451;T-21;Czechoslovakia
+1452;T-21;Czechoslovakia
+1453;T-21;Czechoslovakia
+1454;T-21;Czechoslovakia
+1455;T-21;Czechoslovakia
+1456;T-09;Brazil
+1457;T-86;West Germany
+1458;T-86;West Germany
+1459;T-86;West Germany
+1460;T-60;Republic of Ireland
+1461;T-41;Italy
+1462;T-41;Italy
+1463;T-73;Spain
+1464;T-73;Spain
+1465;T-73;Spain
+1466;T-28;England
+1467;T-03;Argentina
+1468;T-60;Republic of Ireland
+1469;T-21;Czechoslovakia
+1470;T-11;Cameroon
+1471;T-11;Cameroon
+1472;T-11;Cameroon
+1473;T-11;Cameroon
+1474;T-11;Cameroon
+1475;T-03;Argentina
+1476;T-03;Argentina
+1477;T-86;West Germany
+1478;T-86;West Germany
+1479;T-41;Italy
+1480;T-41;Italy
+1481;T-41;Italy
+1482;T-86;West Germany
+1483;T-14;China
+1484;T-14;China
+1485;T-14;China
+1486;T-14;China
+1487;T-31;Germany
+1488;T-31;Germany
+1489;T-31;Germany
+1490;T-31;Germany
+1491;T-22;Denmark
+1492;T-22;Denmark
+1493;T-22;Denmark
+1494;T-44;Japan
+1495;T-74;Sweden
+1496;T-74;Sweden
+1497;T-74;Sweden
+1498;T-74;Sweden
+1499;T-74;Sweden
+1500;T-15;Chinese Taipei
+1501;T-15;Chinese Taipei
+1502;T-15;Chinese Taipei
+1503;T-15;Chinese Taipei
+1504;T-15;Chinese Taipei
+1505;T-53;Norway
+1506;T-53;Norway
+1507;T-53;Norway
+1508;T-53;Norway
+1509;T-41;Italy
+1510;T-14;China
+1511;T-14;China
+1512;T-14;China
+1513;T-14;China
+1514;T-09;Brazil
+1515;T-09;Brazil
+1516;T-09;Brazil
+1517;T-09;Brazil
+1518;T-09;Brazil
+1519;T-44;Japan
+1520;T-44;Japan
+1521;T-44;Japan
+1522;T-44;Japan
+1523;T-44;Japan
+1524;T-44;Japan
+1525;T-44;Japan
+1526;T-44;Japan
+1527;T-15;Chinese Taipei
+1528;T-15;Chinese Taipei
+1529;T-15;Chinese Taipei
+1530;T-09;Brazil
+1531;T-09;Brazil
+1532;T-44;Japan
+1533;T-44;Japan
+1534;T-44;Japan
+1535;T-14;China
+1536;T-14;China
+1537;T-14;China
+1538;T-14;China
+1539;T-14;China
+1540;T-53;Norway
+1541;T-53;Norway
+1542;T-53;Norway
+1543;T-15;Chinese Taipei
+1544;T-15;Chinese Taipei
+1545;T-41;Italy
+1546;T-41;Italy
+1547;T-22;Denmark
+1548;T-22;Denmark
+1549;T-22;Denmark
+1550;T-14;China
+1551;T-53;Norway
+1552;T-53;Norway
+1553;T-53;Norway
+1554;T-53;Norway
+1555;T-53;Norway
+1556;T-83;United States
+1557;T-83;United States
+1558;T-83;United States
+1559;T-83;United States
+1560;T-83;United States
+1561;T-83;United States
+1562;T-83;United States
+1563;T-74;Sweden
+1564;T-74;Sweden
+1565;T-74;Sweden
+1566;T-74;Sweden
+1567;T-74;Sweden
+1568;T-31;Germany
+1569;T-31;Germany
+1570;T-31;Germany
+1571;T-31;Germany
+1572;T-31;Germany
+1573;T-31;Germany
+1574;T-31;Germany
+1575;T-74;Sweden
+1576;T-74;Sweden
+1577;T-74;Sweden
+1578;T-74;Sweden
+1579;T-53;Norway
+1580;T-53;Norway
+1581;T-53;Norway
+1582;T-31;Germany
+1583;T-73;Spain
+1584;T-73;Spain
+1585;T-73;Spain
+1586;T-73;Spain
+1587;T-83;United States
+1588;T-83;United States
+1589;T-41;Italy
+1590;T-16;Colombia
+1591;T-16;Colombia
+1592;T-16;Colombia
+1593;T-16;Colombia
+1594;T-06;Belgium
+1595;T-53;Norway
+1596;T-11;Cameroon
+1597;T-11;Cameroon
+1598;T-11;Cameroon
+1599;T-11;Cameroon
+1600;T-09;Brazil
+1601;T-09;Brazil
+1602;T-48;Netherlands
+1603;T-48;Netherlands
+1604;T-48;Netherlands
+1605;T-03;Argentina
+1606;T-03;Argentina
+1607;T-03;Argentina
+1608;T-03;Argentina
+1609;T-31;Germany
+1610;T-31;Germany
+1611;T-50;Nigeria
+1612;T-50;Nigeria
+1613;T-50;Nigeria
+1614;T-61;Romania
+1615;T-61;Romania
+1616;T-61;Romania
+1617;T-61;Romania
+1618;T-61;Romania
+1619;T-83;United States
+1620;T-83;United States
+1621;T-83;United States
+1622;T-41;Italy
+1623;T-71;South Korea
+1624;T-46;Mexico
+1625;T-46;Mexico
+1626;T-46;Mexico
+1627;T-09;Brazil
+1628;T-09;Brazil
+1629;T-09;Brazil
+1630;T-74;Sweden
+1631;T-74;Sweden
+1632;T-74;Sweden
+1633;T-74;Sweden
+1634;T-06;Belgium
+1635;T-63;Saudi Arabia
+1636;T-63;Saudi Arabia
+1637;T-63;Saudi Arabia
+1638;T-03;Argentina
+1639;T-03;Argentina
+1640;T-03;Argentina
+1641;T-10;Bulgaria
+1642;T-10;Bulgaria
+1643;T-10;Bulgaria
+1644;T-10;Bulgaria
+1645;T-75;Switzerland
+1646;T-75;Switzerland
+1647;T-83;United States
+1648;T-07;Bolivia
+1649;T-07;Bolivia
+1650;T-07;Bolivia
+1651;T-07;Bolivia
+1652;T-31;Germany
+1653;T-31;Germany
+1654;T-31;Germany
+1655;T-31;Germany
+1656;T-31;Germany
+1657;T-41;Italy
+1658;T-41;Italy
+1659;T-60;Republic of Ireland
+1660;T-62;Russia
+1661;T-62;Russia
+1662;T-62;Russia
+1663;T-62;Russia
+1664;T-62;Russia
+1665;T-62;Russia
+1666;T-62;Russia
+1667;T-09;Brazil
+1668;T-09;Brazil
+1669;T-06;Belgium
+1670;T-47;Morocco
+1671;T-47;Morocco
+1672;T-47;Morocco
+1673;T-03;Argentina
+1674;T-03;Argentina
+1675;T-33;Greece
+1676;T-33;Greece
+1677;T-31;Germany
+1678;T-31;Germany
+1679;T-31;Germany
+1680;T-31;Germany
+1681;T-31;Germany
+1682;T-73;Spain
+1683;T-73;Spain
+1684;T-73;Spain
+1685;T-63;Saudi Arabia
+1686;T-63;Saudi Arabia
+1687;T-63;Saudi Arabia
+1688;T-63;Saudi Arabia
+1689;T-61;Romania
+1690;T-61;Romania
+1691;T-61;Romania
+1692;T-61;Romania
+1693;T-61;Romania
+1694;T-48;Netherlands
+1695;T-48;Netherlands
+1696;T-09;Brazil
+1697;T-50;Nigeria
+1698;T-50;Nigeria
+1699;T-50;Nigeria
+1700;T-46;Mexico
+1701;T-46;Mexico
+1702;T-41;Italy
+1703;T-41;Italy
+1704;T-41;Italy
+1705;T-48;Netherlands
+1706;T-48;Netherlands
+1707;T-48;Netherlands
+1708;T-48;Netherlands
+1709;T-48;Netherlands
+1710;T-10;Bulgaria
+1711;T-10;Bulgaria
+1712;T-10;Bulgaria
+1713;T-61;Romania
+1714;T-61;Romania
+1715;T-61;Romania
+1716;T-61;Romania
+1717;T-10;Bulgaria
+1718;T-10;Bulgaria
+1719;T-10;Bulgaria
+1720;T-74;Sweden
+1721;T-74;Sweden
+1722;T-74;Sweden
+1723;T-74;Sweden
+1724;T-74;Sweden
+1725;T-09;Brazil
+1726;T-31;Germany
+1727;T-74;Sweden
+1728;T-28;England
+1729;T-28;England
+1730;T-28;England
+1731;T-28;England
+1732;T-28;England
+1733;T-53;Norway
+1734;T-53;Norway
+1735;T-53;Norway
+1736;T-53;Norway
+1737;T-53;Norway
+1738;T-53;Norway
+1739;T-53;Norway
+1740;T-53;Norway
+1741;T-22;Denmark
+1742;T-22;Denmark
+1743;T-22;Denmark
+1744;T-22;Denmark
+1745;T-22;Denmark
+1746;T-83;United States
+1747;T-83;United States
+1748;T-83;United States
+1749;T-83;United States
+1750;T-83;United States
+1751;T-83;United States
+1752;T-09;Brazil
+1753;T-09;Brazil
+1754;T-09;Brazil
+1755;T-74;Sweden
+1756;T-74;Sweden
+1757;T-74;Sweden
+1758;T-74;Sweden
+1759;T-74;Sweden
+1760;T-50;Nigeria
+1761;T-50;Nigeria
+1762;T-50;Nigeria
+1763;T-50;Nigeria
+1764;T-50;Nigeria
+1765;T-50;Nigeria
+1766;T-53;Norway
+1767;T-53;Norway
+1768;T-14;China
+1769;T-14;China
+1770;T-14;China
+1771;T-14;China
+1772;T-14;China
+1773;T-14;China
+1774;T-83;United States
+1775;T-83;United States
+1776;T-09;Brazil
+1777;T-09;Brazil
+1778;T-09;Brazil
+1779;T-09;Brazil
+1780;T-09;Brazil
+1781;T-09;Brazil
+1782;T-09;Brazil
+1783;T-74;Sweden
+1784;T-74;Sweden
+1785;T-50;Nigeria
+1786;T-50;Nigeria
+1787;T-50;Nigeria
+1788;T-50;Nigeria
+1789;T-50;Nigeria
+1790;T-53;Norway
+1791;T-53;Norway
+1792;T-53;Norway
+1793;T-53;Norway
+1794;T-53;Norway
+1795;T-53;Norway
+1796;T-53;Norway
+1797;T-14;China
+1798;T-14;China
+1799;T-14;China
+1800;T-14;China
+1801;T-83;United States
+1802;T-83;United States
+1803;T-83;United States
+1804;T-83;United States
+1805;T-83;United States
+1806;T-44;Japan
+1807;T-44;Japan
+1808;T-44;Japan
+1809;T-44;Japan
+1810;T-53;Norway
+1811;T-53;Norway
+1812;T-53;Norway
+1813;T-53;Norway
+1814;T-31;Germany
+1815;T-31;Germany
+1816;T-31;Germany
+1817;T-74;Sweden
+1818;T-74;Sweden
+1819;T-83;United States
+1820;T-31;Germany
+1821;T-14;China
+1822;T-14;China
+1823;T-31;Germany
+1824;T-31;Germany
+1825;T-09;Brazil
+1826;T-09;Brazil
+1827;T-09;Brazil
+1828;T-47;Morocco
+1829;T-47;Morocco
+1830;T-47;Morocco
+1831;T-47;Morocco
+1832;T-41;Italy
+1833;T-41;Italy
+1834;T-41;Italy
+1835;T-41;Italy
+1836;T-11;Cameroon
+1837;T-11;Cameroon
+1838;T-55;Paraguay
+1839;T-63;Saudi Arabia
+1840;T-30;France
+1841;T-30;France
+1842;T-30;France
+1843;T-73;Spain
+1844;T-73;Spain
+1845;T-73;Spain
+1846;T-73;Spain
+1847;T-73;Spain
+1848;T-71;South Korea
+1849;T-71;South Korea
+1850;T-71;South Korea
+1851;T-71;South Korea
+1852;T-48;Netherlands
+1853;T-03;Argentina
+1854;T-87;Yugoslavia
+1855;T-43;Jamaica
+1856;T-43;Jamaica
+1857;T-43;Jamaica
+1858;T-43;Jamaica
+1859;T-28;England
+1860;T-28;England
+1861;T-61;Romania
+1862;T-31;Germany
+1863;T-31;Germany
+1864;T-64;Scotland
+1865;T-64;Scotland
+1866;T-09;Brazil
+1867;T-09;Brazil
+1868;T-09;Brazil
+1869;T-13;Chile
+1870;T-13;Chile
+1871;T-41;Italy
+1872;T-41;Italy
+1873;T-41;Italy
+1874;T-70;South Africa
+1875;T-70;South Africa
+1876;T-30;France
+1877;T-30;France
+1878;T-30;France
+1879;T-30;France
+1880;T-50;Nigeria
+1881;T-73;Spain
+1882;T-44;Japan
+1883;T-06;Belgium
+1884;T-06;Belgium
+1885;T-06;Belgium
+1886;T-06;Belgium
+1887;T-48;Netherlands
+1888;T-48;Netherlands
+1889;T-48;Netherlands
+1890;T-48;Netherlands
+1891;T-48;Netherlands
+1892;T-31;Germany
+1893;T-31;Germany
+1894;T-31;Germany
+1895;T-31;Germany
+1896;T-03;Argentina
+1897;T-03;Argentina
+1898;T-03;Argentina
+1899;T-03;Argentina
+1900;T-03;Argentina
+1901;T-83;United States
+1902;T-83;United States
+1903;T-83;United States
+1904;T-16;Colombia
+1905;T-61;Romania
+1906;T-61;Romania
+1907;T-61;Romania
+1908;T-13;Chile
+1909;T-13;Chile
+1910;T-41;Italy
+1911;T-41;Italy
+1912;T-41;Italy
+1913;T-09;Brazil
+1914;T-09;Brazil
+1915;T-09;Brazil
+1916;T-64;Scotland
+1917;T-64;Scotland
+1918;T-64;Scotland
+1919;T-30;France
+1920;T-30;France
+1921;T-30;France
+1922;T-70;South Africa
+1923;T-70;South Africa
+1924;T-70;South Africa
+1925;T-70;South Africa
+1926;T-50;Nigeria
+1927;T-50;Nigeria
+1928;T-50;Nigeria
+1929;T-50;Nigeria
+1930;T-73;Spain
+1931;T-73;Spain
+1932;T-73;Spain
+1933;T-73;Spain
+1934;T-73;Spain
+1935;T-73;Spain
+1936;T-73;Spain
+1937;T-06;Belgium
+1938;T-06;Belgium
+1939;T-48;Netherlands
+1940;T-48;Netherlands
+1941;T-48;Netherlands
+1942;T-48;Netherlands
+1943;T-31;Germany
+1944;T-31;Germany
+1945;T-83;United States
+1946;T-03;Argentina
+1947;T-44;Japan
+1948;T-44;Japan
+1949;T-44;Japan
+1950;T-16;Colombia
+1951;T-16;Colombia
+1952;T-61;Romania
+1953;T-61;Romania
+1954;T-41;Italy
+1955;T-09;Brazil
+1956;T-09;Brazil
+1957;T-09;Brazil
+1958;T-09;Brazil
+1959;T-09;Brazil
+1960;T-30;France
+1961;T-50;Nigeria
+1962;T-50;Nigeria
+1963;T-50;Nigeria
+1964;T-50;Nigeria
+1965;T-50;Nigeria
+1966;T-31;Germany
+1967;T-31;Germany
+1968;T-31;Germany
+1969;T-48;Netherlands
+1970;T-48;Netherlands
+1971;T-48;Netherlands
+1972;T-61;Romania
+1973;T-03;Argentina
+1974;T-03;Argentina
+1975;T-03;Argentina
+1976;T-03;Argentina
+1977;T-41;Italy
+1978;T-09;Brazil
+1979;T-09;Brazil
+1980;T-09;Brazil
+1981;T-09;Brazil
+1982;T-09;Brazil
+1983;T-48;Netherlands
+1984;T-48;Netherlands
+1985;T-48;Netherlands
+1986;T-31;Germany
+1987;T-31;Germany
+1988;T-31;Germany
+1989;T-09;Brazil
+1990;T-09;Brazil
+1991;T-30;France
+1992;T-30;France
+1993;T-30;France
+1994;T-48;Netherlands
+1995;T-48;Netherlands
+1996;T-48;Netherlands
+1997;T-09;Brazil
+1998;T-09;Brazil
+1999;T-09;Brazil
+2000;T-83;United States
+2001;T-83;United States
+2002;T-83;United States
+2003;T-14;China
+2004;T-14;China
+2005;T-14;China
+2006;T-09;Brazil
+2007;T-09;Brazil
+2008;T-09;Brazil
+2009;T-09;Brazil
+2010;T-09;Brazil
+2011;T-09;Brazil
+2012;T-09;Brazil
+2013;T-09;Brazil
+2014;T-44;Japan
+2015;T-44;Japan
+2016;T-31;Germany
+2017;T-31;Germany
+2018;T-53;Norway
+2019;T-53;Norway
+2020;T-53;Norway
+2021;T-51;North Korea
+2022;T-51;North Korea
+2023;T-51;North Korea
+2024;T-04;Australia
+2025;T-04;Australia
+2026;T-44;Japan
+2027;T-44;Japan
+2028;T-44;Japan
+2029;T-44;Japan
+2030;T-44;Japan
+2031;T-53;Norway
+2032;T-53;Norway
+2033;T-53;Norway
+2034;T-53;Norway
+2035;T-53;Norway
+2036;T-53;Norway
+2037;T-53;Norway
+2038;T-53;Norway
+2039;T-04;Australia
+2040;T-04;Australia
+2041;T-04;Australia
+2042;T-04;Australia
+2043;T-14;China
+2044;T-14;China
+2045;T-14;China
+2046;T-14;China
+2047;T-14;China
+2048;T-14;China
+2049;T-14;China
+2050;T-09;Brazil
+2051;T-09;Brazil
+2052;T-51;North Korea
+2053;T-51;North Korea
+2054;T-51;North Korea
+2055;T-51;North Korea
+2056;T-83;United States
+2057;T-83;United States
+2058;T-83;United States
+2059;T-83;United States
+2060;T-83;United States
+2061;T-83;United States
+2062;T-83;United States
+2063;T-83;United States
+2064;T-31;Germany
+2065;T-31;Germany
+2066;T-31;Germany
+2067;T-31;Germany
+2068;T-31;Germany
+2069;T-31;Germany
+2070;T-12;Canada
+2071;T-12;Canada
+2072;T-12;Canada
+2073;T-12;Canada
+2074;T-12;Canada
+2075;T-14;China
+2076;T-14;China
+2077;T-14;China
+2078;T-14;China
+2079;T-32;Ghana
+2080;T-32;Ghana
+2081;T-53;Norway
+2082;T-53;Norway
+2083;T-53;Norway
+2084;T-53;Norway
+2085;T-31;Germany
+2086;T-31;Germany
+2087;T-31;Germany
+2088;T-31;Germany
+2089;T-31;Germany
+2090;T-31;Germany
+2091;T-50;Nigeria
+2092;T-50;Nigeria
+2093;T-46;Mexico
+2094;T-46;Mexico
+2095;T-83;United States
+2096;T-83;United States
+2097;T-83;United States
+2098;T-14;China
+2099;T-14;China
+2100;T-53;Norway
+2101;T-53;Norway
+2102;T-53;Norway
+2103;T-53;Norway
+2104;T-83;United States
+2105;T-83;United States
+2106;T-83;United States
+2107;T-83;United States
+2108;T-83;United States
+2109;T-09;Brazil
+2110;T-09;Brazil
+2111;T-09;Brazil
+2112;T-09;Brazil
+2113;T-09;Brazil
+2114;T-09;Brazil
+2115;T-09;Brazil
+2116;T-83;United States
+2117;T-83;United States
+2118;T-53;Norway
+2119;T-53;Norway
+2120;T-53;Norway
+2121;T-53;Norway
+2122;T-53;Norway
+2123;T-09;Brazil
+2124;T-83;United States
+2125;T-30;France
+2126;T-60;Republic of Ireland
+2127;T-60;Republic of Ireland
+2128;T-84;Uruguay
+2129;T-84;Uruguay
+2130;T-84;Uruguay
+2131;T-31;Germany
+2132;T-31;Germany
+2133;T-31;Germany
+2134;T-31;Germany
+2135;T-31;Germany
+2136;T-31;Germany
+2137;T-31;Germany
+2138;T-31;Germany
+2139;T-03;Argentina
+2140;T-55;Paraguay
+2141;T-55;Paraguay
+2142;T-55;Paraguay
+2143;T-55;Paraguay
+2144;T-28;England
+2145;T-28;England
+2146;T-73;Spain
+2147;T-73;Spain
+2148;T-73;Spain
+2149;T-73;Spain
+2150;T-18;Croatia
+2151;T-09;Brazil
+2152;T-09;Brazil
+2153;T-09;Brazil
+2154;T-41;Italy
+2155;T-41;Italy
+2156;T-14;China
+2157;T-14;China
+2158;T-44;Japan
+2159;T-44;Japan
+2160;T-44;Japan
+2161;T-44;Japan
+2162;T-71;South Korea
+2163;T-71;South Korea
+2164;T-62;Russia
+2165;T-62;Russia
+2166;T-83;United States
+2167;T-83;United States
+2168;T-83;United States
+2169;T-83;United States
+2170;T-83;United States
+2171;T-31;Germany
+2172;T-31;Germany
+2173;T-22;Denmark
+2174;T-22;Denmark
+2175;T-11;Cameroon
+2176;T-30;France
+2177;T-74;Sweden
+2178;T-74;Sweden
+2179;T-74;Sweden
+2180;T-73;Spain
+2181;T-73;Spain
+2182;T-73;Spain
+2183;T-73;Spain
+2184;T-03;Argentina
+2185;T-70;South Africa
+2186;T-41;Italy
+2187;T-41;Italy
+2188;T-41;Italy
+2189;T-09;Brazil
+2190;T-09;Brazil
+2191;T-09;Brazil
+2192;T-09;Brazil
+2193;T-46;Mexico
+2194;T-46;Mexico
+2195;T-46;Mexico
+2196;T-17;Costa Rica
+2197;T-17;Costa Rica
+2198;T-44;Japan
+2199;T-71;South Korea
+2200;T-71;South Korea
+2201;T-79;Tunisia
+2202;T-79;Tunisia
+2203;T-58;Portugal
+2204;T-58;Portugal
+2205;T-58;Portugal
+2206;T-58;Portugal
+2207;T-22;Denmark
+2208;T-22;Denmark
+2209;T-65;Senegal
+2210;T-65;Senegal
+2211;T-65;Senegal
+2212;T-65;Senegal
+2213;T-65;Senegal
+2214;T-65;Senegal
+2215;T-11;Cameroon
+2216;T-11;Cameroon
+2217;T-63;Saudi Arabia
+2218;T-63;Saudi Arabia
+2219;T-63;Saudi Arabia
+2220;T-50;Nigeria
+2221;T-74;Sweden
+2222;T-74;Sweden
+2223;T-69;Slovenia
+2224;T-69;Slovenia
+2225;T-69;Slovenia
+2226;T-69;Slovenia
+2227;T-70;South Africa
+2228;T-70;South Africa
+2229;T-70;South Africa
+2230;T-70;South Africa
+2231;T-70;South Africa
+2232;T-17;Costa Rica
+2233;T-17;Costa Rica
+2234;T-17;Costa Rica
+2235;T-17;Costa Rica
+2236;T-17;Costa Rica
+2237;T-17;Costa Rica
+2238;T-17;Costa Rica
+2239;T-80;Turkey
+2240;T-80;Turkey
+2241;T-80;Turkey
+2242;T-25;Ecuador
+2243;T-46;Mexico
+2244;T-46;Mexico
+2245;T-06;Belgium
+2246;T-06;Belgium
+2247;T-06;Belgium
+2248;T-06;Belgium
+2249;T-06;Belgium
+2250;T-79;Tunisia
+2251;T-79;Tunisia
+2252;T-57;Poland
+2253;T-57;Poland
+2254;T-57;Poland
+2255;T-57;Poland
+2256;T-58;Portugal
+2257;T-31;Germany
+2258;T-22;Denmark
+2259;T-22;Denmark
+2260;T-22;Denmark
+2261;T-74;Sweden
+2262;T-74;Sweden
+2263;T-74;Sweden
+2264;T-73;Spain
+2265;T-73;Spain
+2266;T-46;Mexico
+2267;T-46;Mexico
+2268;T-09;Brazil
+2269;T-09;Brazil
+2270;T-44;Japan
+2271;T-71;South Korea
+2272;T-71;South Korea
+2273;T-71;South Korea
+2274;T-28;England
+2275;T-28;England
+2276;T-28;England
+2277;T-31;Germany
+2278;T-73;Spain
+2279;T-65;Senegal
+2280;T-31;Germany
+2281;T-09;Brazil
+2282;T-71;South Korea
+2283;T-71;South Korea
+2284;T-71;South Korea
+2285;T-71;South Korea
+2286;T-71;South Korea
+2287;T-31;Germany
+2288;T-31;Germany
+2289;T-53;Norway
+2290;T-53;Norway
+2291;T-50;Nigeria
+2292;T-50;Nigeria
+2293;T-50;Nigeria
+2294;T-31;Germany
+2295;T-31;Germany
+2296;T-31;Germany
+2297;T-31;Germany
+2298;T-31;Germany
+2299;T-44;Japan
+2300;T-44;Japan
+2301;T-44;Japan
+2302;T-44;Japan
+2303;T-44;Japan
+2304;T-44;Japan
+2305;T-83;United States
+2306;T-83;United States
+2307;T-83;United States
+2308;T-83;United States
+2309;T-09;Brazil
+2310;T-09;Brazil
+2311;T-09;Brazil
+2312;T-04;Australia
+2313;T-04;Australia
+2314;T-04;Australia
+2315;T-14;China
+2316;T-53;Norway
+2317;T-53;Norway
+2318;T-53;Norway
+2319;T-53;Norway
+2320;T-53;Norway
+2321;T-31;Germany
+2322;T-31;Germany
+2323;T-31;Germany
+2324;T-30;France
+2325;T-12;Canada
+2326;T-12;Canada
+2327;T-12;Canada
+2328;T-32;Ghana
+2329;T-32;Ghana
+2330;T-32;Ghana
+2331;T-74;Sweden
+2332;T-14;China
+2333;T-14;China
+2334;T-83;United States
+2335;T-83;United States
+2336;T-83;United States
+2337;T-83;United States
+2338;T-83;United States
+2339;T-30;France
+2340;T-30;France
+2341;T-71;South Korea
+2342;T-71;South Korea
+2343;T-71;South Korea
+2344;T-71;South Korea
+2345;T-71;South Korea
+2346;T-71;South Korea
+2347;T-71;South Korea
+2348;T-71;South Korea
+2349;T-03;Argentina
+2350;T-03;Argentina
+2351;T-03;Argentina
+2352;T-03;Argentina
+2353;T-03;Argentina
+2354;T-03;Argentina
+2355;T-03;Argentina
+2356;T-12;Canada
+2357;T-12;Canada
+2358;T-12;Canada
+2359;T-12;Canada
+2360;T-74;Sweden
+2361;T-74;Sweden
+2362;T-74;Sweden
+2363;T-51;North Korea
+2364;T-51;North Korea
+2365;T-51;North Korea
+2366;T-32;Ghana
+2367;T-32;Ghana
+2368;T-32;Ghana
+2369;T-14;China
+2370;T-09;Brazil
+2371;T-09;Brazil
+2372;T-09;Brazil
+2373;T-83;United States
+2374;T-31;Germany
+2375;T-31;Germany
+2376;T-31;Germany
+2377;T-31;Germany
+2378;T-31;Germany
+2379;T-31;Germany
+2380;T-31;Germany
+2381;T-31;Germany
+2382;T-14;China
+2383;T-83;United States
+2384;T-83;United States
+2385;T-83;United States
+2386;T-74;Sweden
+2387;T-74;Sweden
+2388;T-74;Sweden
+2389;T-83;United States
+2390;T-83;United States
+2391;T-83;United States
+2392;T-83;United States
+2393;T-31;Germany
+2394;T-31;Germany
+2395;T-31;Germany
+2396;T-31;Germany
+2397;T-31;Germany
+2398;T-31;Germany
+2399;T-31;Germany
+2400;T-31;Germany
+2401;T-31;Germany
+2402;T-57;Poland
+2403;T-57;Poland
+2404;T-28;England
+2405;T-78;Trinidad and Tobago
+2406;T-03;Argentina
+2407;T-03;Argentina
+2408;T-03;Argentina
+2409;T-67;Serbia and Montenegro
+2410;T-46;Mexico
+2411;T-46;Mexico
+2412;T-46;Mexico
+2413;T-46;Mexico
+2414;T-02;Angola
+2415;T-04;Australia
+2416;T-04;Australia
+2417;T-04;Australia
+2418;T-04;Australia
+2419;T-83;United States
+2420;T-83;United States
+2421;T-83;United States
+2422;T-41;Italy
+2423;T-41;Italy
+2424;T-71;South Korea
+2425;T-71;South Korea
+2426;T-71;South Korea
+2427;T-30;France
+2428;T-09;Brazil
+2429;T-73;Spain
+2430;T-73;Spain
+2431;T-73;Spain
+2432;T-73;Spain
+2433;T-79;Tunisia
+2434;T-79;Tunisia
+2435;T-79;Tunisia
+2436;T-79;Tunisia
+2437;T-31;Germany
+2438;T-25;Ecuador
+2439;T-25;Ecuador
+2440;T-25;Ecuador
+2441;T-28;England
+2442;T-28;England
+2443;T-74;Sweden
+2444;T-03;Argentina
+2445;T-03;Argentina
+2446;T-03;Argentina
+2447;T-03;Argentina
+2448;T-03;Argentina
+2449;T-03;Argentina
+2450;T-48;Netherlands
+2451;T-48;Netherlands
+2452;T-48;Netherlands
+2453;T-46;Mexico
+2454;T-58;Portugal
+2455;T-58;Portugal
+2456;T-20;Czech Republic
+2457;T-20;Czech Republic
+2458;T-41;Italy
+2459;T-41;Italy
+2460;T-44;Japan
+2461;T-09;Brazil
+2462;T-09;Brazil
+2463;T-30;France
+2464;T-30;France
+2465;T-77;Togo
+2466;T-77;Togo
+2467;T-63;Saudi Arabia
+2468;T-63;Saudi Arabia
+2469;T-63;Saudi Arabia
+2470;T-63;Saudi Arabia
+2471;T-73;Spain
+2472;T-73;Spain
+2473;T-73;Spain
+2474;T-73;Spain
+2475;T-17;Costa Rica
+2476;T-17;Costa Rica
+2477;T-17;Costa Rica
+2478;T-25;Ecuador
+2479;T-25;Ecuador
+2480;T-25;Ecuador
+2481;T-55;Paraguay
+2482;T-55;Paraguay
+2483;T-74;Sweden
+2484;T-74;Sweden
+2485;T-74;Sweden
+2486;T-74;Sweden
+2487;T-38;Iran
+2488;T-38;Iran
+2489;T-58;Portugal
+2490;T-58;Portugal
+2491;T-58;Portugal
+2492;T-42;Ivory Coast
+2493;T-42;Ivory Coast
+2494;T-42;Ivory Coast
+2495;T-42;Ivory Coast
+2496;T-42;Ivory Coast
+2497;T-48;Netherlands
+2498;T-20;Czech Republic
+2499;T-20;Czech Republic
+2500;T-32;Ghana
+2501;T-32;Ghana
+2502;T-32;Ghana
+2503;T-18;Croatia
+2504;T-18;Croatia
+2505;T-18;Croatia
+2506;T-18;Croatia
+2507;T-44;Japan
+2508;T-44;Japan
+2509;T-44;Japan
+2510;T-44;Japan
+2511;T-44;Japan
+2512;T-63;Saudi Arabia
+2513;T-81;Ukraine
+2514;T-75;Switzerland
+2515;T-75;Switzerland
+2516;T-77;Togo
+2517;T-77;Togo
+2518;T-31;Germany
+2519;T-31;Germany
+2520;T-03;Argentina
+2521;T-03;Argentina
+2522;T-03;Argentina
+2523;T-28;England
+2524;T-58;Portugal
+2525;T-41;Italy
+2526;T-75;Switzerland
+2527;T-09;Brazil
+2528;T-09;Brazil
+2529;T-09;Brazil
+2530;T-73;Spain
+2531;T-73;Spain
+2532;T-73;Spain
+2533;T-73;Spain
+2534;T-31;Germany
+2535;T-31;Germany
+2536;T-41;Italy
+2537;T-41;Italy
+2538;T-41;Italy
+2539;T-28;England
+2540;T-09;Brazil
+2541;T-31;Germany
+2542;T-31;Germany
+2543;T-58;Portugal
+2544;T-31;Germany
+2545;T-31;Germany
+2546;T-31;Germany
+2547;T-31;Germany
+2548;T-41;Italy
+2549;T-41;Italy
+2550;T-31;Germany
+2551;T-31;Germany
+2552;T-31;Germany
+2553;T-31;Germany
+2554;T-31;Germany
+2555;T-31;Germany
+2556;T-31;Germany
+2557;T-31;Germany
+2558;T-31;Germany
+2559;T-31;Germany
+2560;T-31;Germany
+2561;T-83;United States
+2562;T-83;United States
+2563;T-83;United States
+2564;T-83;United States
+2565;T-44;Japan
+2566;T-44;Japan
+2567;T-44;Japan
+2568;T-44;Japan
+2569;T-50;Nigeria
+2570;T-50;Nigeria
+2571;T-32;Ghana
+2572;T-32;Ghana
+2573;T-32;Ghana
+2574;T-32;Ghana
+2575;T-32;Ghana
+2576;T-49;New Zealand
+2577;T-49;New Zealand
+2578;T-49;New Zealand
+2579;T-49;New Zealand
+2580;T-49;New Zealand
+2581;T-53;Norway
+2582;T-53;Norway
+2583;T-53;Norway
+2584;T-14;China
+2585;T-14;China
+2586;T-14;China
+2587;T-14;China
+2588;T-14;China
+2589;T-03;Argentina
+2590;T-74;Sweden
+2591;T-74;Sweden
+2592;T-28;England
+2593;T-51;North Korea
+2594;T-51;North Korea
+2595;T-12;Canada
+2596;T-12;Canada
+2597;T-12;Canada
+2598;T-12;Canada
+2599;T-22;Denmark
+2600;T-22;Denmark
+2601;T-04;Australia
+2602;T-04;Australia
+2603;T-09;Brazil
+2604;T-09;Brazil
+2605;T-09;Brazil
+2606;T-09;Brazil
+2607;T-28;England
+2608;T-28;England
+2609;T-28;England
+2610;T-28;England
+2611;T-28;England
+2612;T-28;England
+2613;T-28;England
+2614;T-31;Germany
+2615;T-31;Germany
+2616;T-50;Nigeria
+2617;T-51;North Korea
+2618;T-51;North Korea
+2619;T-51;North Korea
+2620;T-04;Australia
+2621;T-04;Australia
+2622;T-04;Australia
+2623;T-04;Australia
+2624;T-53;Norway
+2625;T-53;Norway
+2626;T-53;Norway
+2627;T-53;Norway
+2628;T-53;Norway
+2629;T-53;Norway
+2630;T-53;Norway
+2631;T-53;Norway
+2632;T-53;Norway
+2633;T-09;Brazil
+2634;T-14;China
+2635;T-14;China
+2636;T-31;Germany
+2637;T-31;Germany
+2638;T-31;Germany
+2639;T-83;United States
+2640;T-83;United States
+2641;T-83;United States
+2642;T-53;Norway
+2643;T-09;Brazil
+2644;T-09;Brazil
+2645;T-09;Brazil
+2646;T-09;Brazil
+2647;T-09;Brazil
+2648;T-31;Germany
+2649;T-31;Germany
+2650;T-31;Germany
+2651;T-83;United States
+2652;T-83;United States
+2653;T-83;United States
+2654;T-83;United States
+2655;T-53;Norway
+2656;T-53;Norway
+2657;T-53;Norway
+2658;T-53;Norway
+2659;T-53;Norway
+2660;T-31;Germany
+2661;T-31;Germany
+2662;T-70;South Africa
+2663;T-70;South Africa
+2664;T-84;Uruguay
+2665;T-71;South Korea
+2666;T-71;South Korea
+2667;T-03;Argentina
+2668;T-28;England
+2669;T-28;England
+2670;T-01;Algeria
+2671;T-66;Serbia
+2672;T-31;Germany
+2673;T-31;Germany
+2674;T-31;Germany
+2675;T-31;Germany
+2676;T-48;Netherlands
+2677;T-48;Netherlands
+2678;T-44;Japan
+2679;T-41;Italy
+2680;T-41;Italy
+2681;T-49;New Zealand
+2682;T-49;New Zealand
+2683;T-42;Ivory Coast
+2684;T-09;Brazil
+2685;T-09;Brazil
+2686;T-09;Brazil
+2687;T-35;Honduras
+2688;T-73;Spain
+2689;T-70;South Africa
+2690;T-70;South Africa
+2691;T-70;South Africa
+2692;T-03;Argentina
+2693;T-03;Argentina
+2694;T-03;Argentina
+2695;T-03;Argentina
+2696;T-03;Argentina
+2697;T-33;Greece
+2698;T-33;Greece
+2699;T-33;Greece
+2700;T-30;France
+2701;T-30;France
+2702;T-31;Germany
+2703;T-69;Slovenia
+2704;T-69;Slovenia
+2705;T-69;Slovenia
+2706;T-69;Slovenia
+2707;T-28;England
+2708;T-48;Netherlands
+2709;T-32;Ghana
+2710;T-32;Ghana
+2711;T-11;Cameroon
+2712;T-11;Cameroon
+2713;T-11;Cameroon
+2714;T-68;Slovakia
+2715;T-68;Slovakia
+2716;T-41;Italy
+2717;T-41;Italy
+2718;T-09;Brazil
+2719;T-09;Brazil
+2720;T-09;Brazil
+2721;T-09;Brazil
+2722;T-58;Portugal
+2723;T-58;Portugal
+2724;T-58;Portugal
+2725;T-58;Portugal
+2726;T-58;Portugal
+2727;T-58;Portugal
+2728;T-58;Portugal
+2729;T-13;Chile
+2730;T-73;Spain
+2731;T-73;Spain
+2732;T-30;France
+2733;T-30;France
+2734;T-30;France
+2735;T-46;Mexico
+2736;T-33;Greece
+2737;T-33;Greece
+2738;T-50;Nigeria
+2739;T-50;Nigeria
+2740;T-50;Nigeria
+2741;T-50;Nigeria
+2742;T-69;Slovenia
+2743;T-83;United States
+2744;T-04;Australia
+2745;T-04;Australia
+2746;T-04;Australia
+2747;T-32;Ghana
+2748;T-55;Paraguay
+2749;T-68;Slovakia
+2750;T-68;Slovakia
+2751;T-68;Slovakia
+2752;T-68;Slovakia
+2753;T-68;Slovakia
+2754;T-11;Cameroon
+2755;T-11;Cameroon
+2756;T-11;Cameroon
+2757;T-22;Denmark
+2758;T-22;Denmark
+2759;T-22;Denmark
+2760;T-22;Denmark
+2761;T-51;North Korea
+2762;T-51;North Korea
+2763;T-51;North Korea
+2764;T-58;Portugal
+2765;T-13;Chile
+2766;T-13;Chile
+2767;T-13;Chile
+2768;T-75;Switzerland
+2769;T-84;Uruguay
+2770;T-84;Uruguay
+2771;T-84;Uruguay
+2772;T-83;United States
+2773;T-83;United States
+2774;T-83;United States
+2775;T-31;Germany
+2776;T-31;Germany
+2777;T-31;Germany
+2778;T-31;Germany
+2779;T-31;Germany
+2780;T-03;Argentina
+2781;T-03;Argentina
+2782;T-03;Argentina
+2783;T-03;Argentina
+2784;T-48;Netherlands
+2785;T-48;Netherlands
+2786;T-48;Netherlands
+2787;T-09;Brazil
+2788;T-09;Brazil
+2789;T-09;Brazil
+2790;T-55;Paraguay
+2791;T-73;Spain
+2792;T-48;Netherlands
+2793;T-48;Netherlands
+2794;T-48;Netherlands
+2795;T-84;Uruguay
+2796;T-84;Uruguay
+2797;T-03;Argentina
+2798;T-03;Argentina
+2799;T-03;Argentina
+2800;T-03;Argentina
+2801;T-55;Paraguay
+2802;T-84;Uruguay
+2803;T-84;Uruguay
+2804;T-84;Uruguay
+2805;T-84;Uruguay
+2806;T-84;Uruguay
+2807;T-31;Germany
+2808;T-84;Uruguay
+2809;T-84;Uruguay
+2810;T-84;Uruguay
+2811;T-84;Uruguay
+2812;T-84;Uruguay
+2813;T-48;Netherlands
+2814;T-50;Nigeria
+2815;T-31;Germany
+2816;T-31;Germany
+2817;T-31;Germany
+2818;T-44;Japan
+2819;T-44;Japan
+2820;T-44;Japan
+2821;T-46;Mexico
+2822;T-46;Mexico
+2823;T-16;Colombia
+2824;T-83;United States
+2825;T-83;United States
+2826;T-53;Norway
+2827;T-09;Brazil
+2828;T-12;Canada
+2829;T-12;Canada
+2830;T-12;Canada
+2831;T-12;Canada
+2832;T-31;Germany
+2833;T-44;Japan
+2834;T-44;Japan
+2835;T-44;Japan
+2836;T-44;Japan
+2837;T-49;New Zealand
+2838;T-49;New Zealand
+2839;T-49;New Zealand
+2840;T-51;North Korea
+2841;T-83;United States
+2842;T-83;United States
+2843;T-83;United States
+2844;T-04;Australia
+2845;T-04;Australia
+2846;T-04;Australia
+2847;T-04;Australia
+2848;T-04;Australia
+2849;T-09;Brazil
+2850;T-09;Brazil
+2851;T-09;Brazil
+2852;T-28;England
+2853;T-28;England
+2854;T-49;New Zealand
+2855;T-49;New Zealand
+2856;T-49;New Zealand
+2857;T-49;New Zealand
+2858;T-12;Canada
+2859;T-30;France
+2860;T-30;France
+2861;T-30;France
+2862;T-30;France
+2863;T-30;France
+2864;T-30;France
+2865;T-04;Australia
+2866;T-04;Australia
+2867;T-04;Australia
+2868;T-29;Equatorial Guinea
+2869;T-29;Equatorial Guinea
+2870;T-29;Equatorial Guinea
+2871;T-51;North Korea
+2872;T-74;Sweden
+2873;T-74;Sweden
+2874;T-74;Sweden
+2875;T-28;England
+2876;T-28;England
+2877;T-31;Germany
+2878;T-74;Sweden
+2879;T-74;Sweden
+2880;T-74;Sweden
+2881;T-74;Sweden
+2882;T-09;Brazil
+2883;T-09;Brazil
+2884;T-09;Brazil
+2885;T-09;Brazil
+2886;T-30;France
+2887;T-30;France
+2888;T-30;France
+2889;T-30;France
+2890;T-44;Japan
+2891;T-44;Japan
+2892;T-44;Japan
+2893;T-44;Japan
+2894;T-74;Sweden
+2895;T-74;Sweden
+2896;T-74;Sweden
+2897;T-44;Japan
+2898;T-44;Japan
+2899;T-44;Japan
+2900;T-44;Japan
+2901;T-09;Brazil
+2902;T-09;Brazil
+2903;T-09;Brazil
+2904;T-09;Brazil
+2905;T-46;Mexico
+2906;T-73;Spain
+2907;T-73;Spain
+2908;T-73;Spain
+2909;T-73;Spain
+2910;T-73;Spain
+2911;T-73;Spain
+2912;T-13;Chile
+2913;T-13;Chile
+2914;T-13;Chile
+2915;T-13;Chile
+2916;T-16;Colombia
+2917;T-16;Colombia
+2918;T-16;Colombia
+2919;T-84;Uruguay
+2920;T-84;Uruguay
+2921;T-84;Uruguay
+2922;T-84;Uruguay
+2923;T-28;England
+2924;T-28;England
+2925;T-28;England
+2926;T-42;Ivory Coast
+2927;T-42;Ivory Coast
+2928;T-42;Ivory Coast
+2929;T-75;Switzerland
+2930;T-75;Switzerland
+2931;T-75;Switzerland
+2932;T-30;France
+2933;T-30;France
+2934;T-30;France
+2935;T-03;Argentina
+2936;T-03;Argentina
+2937;T-03;Argentina
+2938;T-31;Germany
+2939;T-31;Germany
+2940;T-31;Germany
+2941;T-31;Germany
+2942;T-38;Iran
+2943;T-32;Ghana
+2944;T-32;Ghana
+2945;T-32;Ghana
+2946;T-06;Belgium
+2947;T-06;Belgium
+2948;T-06;Belgium
+2949;T-09;Brazil
+2950;T-62;Russia
+2951;T-62;Russia
+2952;T-04;Australia
+2953;T-04;Australia
+2954;T-04;Australia
+2955;T-04;Australia
+2956;T-04;Australia
+2957;T-73;Spain
+2958;T-73;Spain
+2959;T-11;Cameroon
+2960;T-11;Cameroon
+2961;T-11;Cameroon
+2962;T-11;Cameroon
+2963;T-16;Colombia
+2964;T-16;Colombia
+2965;T-16;Colombia
+2966;T-84;Uruguay
+2967;T-84;Uruguay
+2968;T-84;Uruguay
+2969;T-44;Japan
+2970;T-41;Italy
+2971;T-75;Switzerland
+2972;T-75;Switzerland
+2973;T-75;Switzerland
+2974;T-75;Switzerland
+2975;T-75;Switzerland
+2976;T-75;Switzerland
+2977;T-75;Switzerland
+2978;T-35;Honduras
+2979;T-35;Honduras
+2980;T-35;Honduras
+2981;T-03;Argentina
+2982;T-31;Germany
+2983;T-31;Germany
+2984;T-31;Germany
+2985;T-31;Germany
+2986;T-50;Nigeria
+2987;T-06;Belgium
+2988;T-71;South Korea
+2989;T-71;South Korea
+2990;T-71;South Korea
+2991;T-71;South Korea
+2992;T-71;South Korea
+2993;T-71;South Korea
+2994;T-83;United States
+2995;T-83;United States
+2996;T-83;United States
+2997;T-83;United States
+2998;T-04;Australia
+2999;T-04;Australia
+3000;T-04;Australia
+3001;T-48;Netherlands
+3002;T-48;Netherlands
+3003;T-11;Cameroon
+3004;T-11;Cameroon
+3005;T-11;Cameroon
+3006;T-11;Cameroon
+3007;T-11;Cameroon
+3008;T-18;Croatia
+3009;T-18;Croatia
+3010;T-18;Croatia
+3011;T-18;Croatia
+3012;T-17;Costa Rica
+3013;T-41;Italy
+3014;T-44;Japan
+3015;T-44;Japan
+3016;T-44;Japan
+3017;T-44;Japan
+3018;T-44;Japan
+3019;T-33;Greece
+3020;T-33;Greece
+3021;T-33;Greece
+3022;T-08;Bosnia and Herzegovina
+3023;T-08;Bosnia and Herzegovina
+3024;T-08;Bosnia and Herzegovina
+3025;T-08;Bosnia and Herzegovina
+3026;T-50;Nigeria
+3027;T-50;Nigeria
+3028;T-50;Nigeria
+3029;T-50;Nigeria
+3030;T-50;Nigeria
+3031;T-35;Honduras
+3032;T-35;Honduras
+3033;T-35;Honduras
+3034;T-25;Ecuador
+3035;T-58;Portugal
+3036;T-58;Portugal
+3037;T-58;Portugal
+3038;T-83;United States
+3039;T-01;Algeria
+3040;T-01;Algeria
+3041;T-71;South Korea
+3042;T-09;Brazil
+3043;T-09;Brazil
+3044;T-16;Colombia
+3045;T-16;Colombia
+3046;T-48;Netherlands
+3047;T-48;Netherlands
+3048;T-48;Netherlands
+3049;T-17;Costa Rica
+3050;T-17;Costa Rica
+3051;T-30;France
+3052;T-30;France
+3053;T-31;Germany
+3054;T-31;Germany
+3055;T-31;Germany
+3056;T-03;Argentina
+3057;T-06;Belgium
+3058;T-06;Belgium
+3059;T-06;Belgium
+3060;T-30;France
+3061;T-09;Brazil
+3062;T-09;Brazil
+3063;T-09;Brazil
+3064;T-03;Argentina
+3065;T-48;Netherlands
+3066;T-09;Brazil
+3067;T-09;Brazil
+3068;T-09;Brazil
+3069;T-09;Brazil
+3070;T-09;Brazil
+3071;T-09;Brazil
+3072;T-09;Brazil
+3073;T-09;Brazil
+3074;T-48;Netherlands
+3075;T-09;Brazil
+3076;T-09;Brazil
+3077;T-09;Brazil
+3078;T-31;Germany
+3079;T-12;Canada
+3080;T-49;New Zealand
+3081;T-53;Norway
+3082;T-53;Norway
+3083;T-53;Norway
+3084;T-53;Norway
+3085;T-31;Germany
+3086;T-31;Germany
+3087;T-31;Germany
+3088;T-31;Germany
+3089;T-31;Germany
+3090;T-31;Germany
+3091;T-31;Germany
+3092;T-31;Germany
+3093;T-31;Germany
+3094;T-31;Germany
+3095;T-74;Sweden
+3096;T-74;Sweden
+3097;T-74;Sweden
+3098;T-74;Sweden
+3099;T-74;Sweden
+3100;T-74;Sweden
+3101;T-11;Cameroon
+3102;T-11;Cameroon
+3103;T-11;Cameroon
+3104;T-11;Cameroon
+3105;T-11;Cameroon
+3106;T-11;Cameroon
+3107;T-83;United States
+3108;T-83;United States
+3109;T-83;United States
+3110;T-83;United States
+3111;T-44;Japan
+3112;T-30;France
+3113;T-73;Spain
+3114;T-73;Spain
+3115;T-16;Colombia
+3116;T-16;Colombia
+3117;T-09;Brazil
+3118;T-09;Brazil
+3119;T-14;China
+3120;T-31;Germany
+3121;T-31;Germany
+3122;T-12;Canada
+3123;T-42;Ivory Coast
+3124;T-42;Ivory Coast
+3125;T-42;Ivory Coast
+3126;T-42;Ivory Coast
+3127;T-42;Ivory Coast
+3128;T-75;Switzerland
+3129;T-75;Switzerland
+3130;T-75;Switzerland
+3131;T-75;Switzerland
+3132;T-75;Switzerland
+3133;T-75;Switzerland
+3134;T-75;Switzerland
+3135;T-75;Switzerland
+3136;T-75;Switzerland
+3137;T-75;Switzerland
+3138;T-75;Switzerland
+3139;T-04;Australia
+3140;T-04;Australia
+3141;T-44;Japan
+3142;T-44;Japan
+3143;T-44;Japan
+3144;T-83;United States
+3145;T-30;France
+3146;T-30;France
+3147;T-09;Brazil
+3148;T-28;England
+3149;T-28;England
+3150;T-28;England
+3151;T-71;South Korea
+3152;T-71;South Korea
+3153;T-71;South Korea
+3154;T-71;South Korea
+3155;T-76;Thailand
+3156;T-76;Thailand
+3157;T-76;Thailand
+3158;T-76;Thailand
+3159;T-42;Ivory Coast
+3160;T-42;Ivory Coast
+3161;T-42;Ivory Coast
+3162;T-42;Ivory Coast
+3163;T-14;China
+3164;T-14;China
+3165;T-14;China
+3166;T-14;China
+3167;T-48;Netherlands
+3168;T-48;Netherlands
+3169;T-75;Switzerland
+3170;T-75;Switzerland
+3171;T-75;Switzerland
+3172;T-25;Ecuador
+3173;T-50;Nigeria
+3174;T-04;Australia
+3175;T-04;Australia
+3176;T-28;England
+3177;T-28;England
+3178;T-28;England
+3179;T-46;Mexico
+3180;T-46;Mexico
+3181;T-46;Mexico
+3182;T-46;Mexico
+3183;T-46;Mexico
+3184;T-71;South Korea
+3185;T-71;South Korea
+3186;T-71;South Korea
+3187;T-17;Costa Rica
+3188;T-31;Germany
+3189;T-31;Germany
+3190;T-31;Germany
+3191;T-31;Germany
+3192;T-31;Germany
+3193;T-14;China
+3194;T-09;Brazil
+3195;T-30;France
+3196;T-30;France
+3197;T-30;France
+3198;T-12;Canada
+3199;T-53;Norway
+3200;T-53;Norway
+3201;T-53;Norway
+3202;T-83;United States
+3203;T-83;United States
+3204;T-44;Japan
+3205;T-44;Japan
+3206;T-44;Japan
+3207;T-31;Germany
+3208;T-31;Germany
+3209;T-14;China
+3210;T-04;Australia
+3211;T-28;England
+3212;T-28;England
+3213;T-28;England
+3214;T-83;United States
+3215;T-83;United States
+3216;T-44;Japan
+3217;T-44;Japan
+3218;T-44;Japan
+3219;T-31;Germany
+3220;T-83;United States
+3221;T-83;United States
+3222;T-83;United States
+3223;T-83;United States
+3224;T-83;United States
+3225;T-83;United States
+3226;T-83;United States
+3227;T-62;Russia
+3228;T-62;Russia
+3229;T-62;Russia
+3230;T-62;Russia
+3231;T-62;Russia
+3232;T-26;Egypt
+3233;T-47;Morocco
+3234;T-58;Portugal
+3235;T-58;Portugal
+3236;T-58;Portugal
+3237;T-58;Portugal
+3238;T-58;Portugal
+3239;T-58;Portugal
+3240;T-30;France
+3241;T-30;France
+3242;T-30;France
+3243;T-03;Argentina
+3244;T-03;Argentina
+3245;T-56;Peru
+3246;T-18;Croatia
+3247;T-18;Croatia
+3248;T-17;Costa Rica
+3249;T-31;Germany
+3250;T-09;Brazil
+3251;T-09;Brazil
+3252;T-74;Sweden
+3253;T-06;Belgium
+3254;T-06;Belgium
+3255;T-06;Belgium
+3256;T-79;Tunisia
+3257;T-79;Tunisia
+3258;T-79;Tunisia
+3259;T-16;Colombia
+3260;T-16;Colombia
+3261;T-16;Colombia
+3262;T-57;Poland
+3263;T-57;Poland
+3264;T-57;Poland
+3265;T-62;Russia
+3266;T-62;Russia
+3267;T-62;Russia
+3268;T-62;Russia
+3269;T-58;Portugal
+3270;T-84;Uruguay
+3271;T-38;Iran
+3272;T-22;Denmark
+3273;T-22;Denmark
+3274;T-30;France
+3275;T-03;Argentina
+3276;T-03;Argentina
+3277;T-03;Argentina
+3278;T-09;Brazil
+3279;T-09;Brazil
+3280;T-50;Nigeria
+3281;T-50;Nigeria
+3282;T-66;Serbia
+3283;T-66;Serbia
+3284;T-66;Serbia
+3285;T-06;Belgium
+3286;T-06;Belgium
+3287;T-06;Belgium
+3288;T-06;Belgium
+3289;T-06;Belgium
+3290;T-06;Belgium
+3291;T-06;Belgium
+3292;T-71;South Korea
+3293;T-71;South Korea
+3294;T-71;South Korea
+3295;T-31;Germany
+3296;T-31;Germany
+3297;T-31;Germany
+3298;T-28;England
+3299;T-28;England
+3300;T-28;England
+3301;T-28;England
+3302;T-28;England
+3303;T-28;England
+3304;T-28;England
+3305;T-44;Japan
+3306;T-44;Japan
+3307;T-44;Japan
+3308;T-44;Japan
+3309;T-57;Poland
+3310;T-57;Poland
+3311;T-57;Poland
+3312;T-63;Saudi Arabia
+3313;T-63;Saudi Arabia
+3314;T-63;Saudi Arabia
+3315;T-84;Uruguay
+3316;T-84;Uruguay
+3317;T-84;Uruguay
+3318;T-73;Spain
+3319;T-73;Spain
+3320;T-73;Spain
+3321;T-73;Spain
+3322;T-38;Iran
+3323;T-38;Iran
+3324;T-04;Australia
+3325;T-04;Australia
+3326;T-22;Denmark
+3327;T-37;Iceland
+3328;T-37;Iceland
+3329;T-37;Iceland
+3330;T-50;Nigeria
+3331;T-50;Nigeria
+3332;T-50;Nigeria
+3333;T-71;South Korea
+3334;T-71;South Korea
+3335;T-46;Mexico
+3336;T-46;Mexico
+3337;T-46;Mexico
+3338;T-66;Serbia
+3339;T-66;Serbia
+3340;T-75;Switzerland
+3341;T-75;Switzerland
+3342;T-75;Switzerland
+3343;T-75;Switzerland
+3344;T-44;Japan
+3345;T-65;Senegal
+3346;T-28;England
+3347;T-54;Panama
+3348;T-54;Panama
+3349;T-54;Panama
+3350;T-30;France
+3351;T-30;France
+3352;T-30;France
+3353;T-30;France
+3354;T-30;France
+3355;T-30;France
+3356;T-30;France
+3357;T-84;Uruguay
+3358;T-84;Uruguay
+3359;T-84;Uruguay
+3360;T-73;Spain
+3361;T-73;Spain
+3362;T-18;Croatia
+3363;T-18;Croatia
+3364;T-09;Brazil
+3365;T-09;Brazil
+3366;T-06;Belgium
+3367;T-06;Belgium
+3368;T-06;Belgium
+3369;T-06;Belgium
+3370;T-06;Belgium
+3371;T-74;Sweden
+3372;T-16;Colombia
+3373;T-16;Colombia
+3374;T-84;Uruguay
+3375;T-84;Uruguay
+3376;T-09;Brazil
+3377;T-09;Brazil
+3378;T-09;Brazil
+3379;T-74;Sweden
+3380;T-74;Sweden
+3381;T-62;Russia
+3382;T-62;Russia
+3383;T-62;Russia
+3384;T-62;Russia
+3385;T-30;France
+3386;T-18;Croatia
+3387;T-18;Croatia
+3388;T-18;Croatia
+3389;T-06;Belgium
+3390;T-06;Belgium
+3391;T-30;France
+3392;T-30;France
+3393;T-30;France
+3394;T-30;France
+3395;T-30;France
+3396;T-30;France
+3397;T-30;France
+3398;T-30;France
+3399;T-30;France
+3400;T-30;France
+3401;T-31;Germany
+3402;T-73;Spain
+3403;T-73;Spain
+3404;T-73;Spain
+3405;T-73;Spain
+3406;T-53;Norway
+3407;T-53;Norway
+3408;T-53;Norway
+3409;T-04;Australia
+3410;T-04;Australia
+3411;T-04;Australia
+3412;T-09;Brazil
+3413;T-09;Brazil
+3414;T-09;Brazil
+3415;T-28;England
+3416;T-28;England
+3417;T-28;England
+3418;T-03;Argentina
+3419;T-12;Canada
+3420;T-49;New Zealand
+3421;T-13;Chile
+3422;T-13;Chile
+3423;T-83;United States
+3424;T-83;United States
+3425;T-83;United States
+3426;T-83;United States
+3427;T-83;United States
+3428;T-83;United States
+3429;T-83;United States
+3430;T-83;United States
+3431;T-83;United States
+3432;T-83;United States
+3433;T-83;United States
+3434;T-83;United States
+3435;T-83;United States
+3436;T-50;Nigeria
+3437;T-50;Nigeria
+3438;T-31;Germany
+3439;T-30;France
+3440;T-30;France
+3441;T-30;France
+3442;T-04;Australia
+3443;T-04;Australia
+3444;T-04;Australia
+3445;T-04;Australia
+3446;T-04;Australia
+3447;T-70;South Africa
+3448;T-44;Japan
+3449;T-44;Japan
+3450;T-44;Japan
+3451;T-43;Jamaica
+3452;T-43;Jamaica
+3453;T-43;Jamaica
+3454;T-43;Jamaica
+3455;T-43;Jamaica
+3456;T-28;England
+3457;T-48;Netherlands
+3458;T-48;Netherlands
+3459;T-48;Netherlands
+3460;T-48;Netherlands
+3461;T-12;Canada
+3462;T-12;Canada
+3463;T-74;Sweden
+3464;T-74;Sweden
+3465;T-74;Sweden
+3466;T-74;Sweden
+3467;T-74;Sweden
+3468;T-74;Sweden
+3469;T-83;United States
+3470;T-83;United States
+3471;T-83;United States
+3472;T-14;China
+3473;T-70;South Africa
+3474;T-70;South Africa
+3475;T-70;South Africa
+3476;T-70;South Africa
+3477;T-50;Nigeria
+3478;T-71;South Korea
+3479;T-71;South Korea
+3480;T-71;South Korea
+3481;T-41;Italy
+3482;T-43;Jamaica
+3483;T-43;Jamaica
+3484;T-43;Jamaica
+3485;T-43;Jamaica
+3486;T-43;Jamaica
+3487;T-44;Japan
+3488;T-44;Japan
+3489;T-64;Scotland
+3490;T-64;Scotland
+3491;T-64;Scotland
+3492;T-64;Scotland
+3493;T-64;Scotland
+3494;T-64;Scotland
+3495;T-11;Cameroon
+3496;T-11;Cameroon
+3497;T-11;Cameroon
+3498;T-48;Netherlands
+3499;T-48;Netherlands
+3500;T-48;Netherlands
+3501;T-74;Sweden
+3502;T-74;Sweden
+3503;T-76;Thailand
+3504;T-76;Thailand
+3505;T-31;Germany
+3506;T-31;Germany
+3507;T-31;Germany
+3508;T-53;Norway
+3509;T-53;Norway
+3510;T-28;England
+3511;T-28;England
+3512;T-28;England
+3513;T-30;France
+3514;T-30;France
+3515;T-30;France
+3516;T-73;Spain
+3517;T-73;Spain
+3518;T-73;Spain
+3519;T-74;Sweden
+3520;T-41;Italy
+3521;T-41;Italy
+3522;T-48;Netherlands
+3523;T-48;Netherlands
+3524;T-48;Netherlands
+3525;T-53;Norway
+3526;T-53;Norway
+3527;T-53;Norway
+3528;T-30;France
+3529;T-30;France
+3530;T-30;France
+3531;T-41;Italy
+3532;T-41;Italy
+3533;T-31;Germany
+3534;T-31;Germany
+3535;T-31;Germany
+3536;T-28;England
+3537;T-28;England
+3538;T-28;England
+3539;T-48;Netherlands
+3540;T-28;England
+3541;T-28;England
+3542;T-28;England
+3543;T-83;United States
+3544;T-83;United States
+3545;T-59;Qatar
+3546;T-59;Qatar
+3547;T-28;England
+3548;T-28;England
+3549;T-28;England
+3550;T-28;England
+3551;T-28;England
+3552;T-28;England
+3553;T-28;England
+3554;T-28;England
+3555;T-65;Senegal
+3556;T-65;Senegal
+3557;T-83;United States
+3558;T-83;United States
+3559;T-03;Argentina
+3560;T-03;Argentina
+3561;T-03;Argentina
+3562;T-22;Denmark
+3563;T-46;Mexico
+3564;T-30;France
+3565;T-30;France
+3566;T-30;France
+3567;T-30;France
+3568;T-30;France
+3569;T-47;Morocco
+3570;T-31;Germany
+3571;T-31;Germany
+3572;T-31;Germany
+3573;T-73;Spain
+3574;T-73;Spain
+3575;T-73;Spain
+3576;T-73;Spain
+3577;T-73;Spain
+3578;T-73;Spain
+3579;T-73;Spain
+3580;T-06;Belgium
+3581;T-75;Switzerland
+3582;T-84;Uruguay
+3583;T-58;Portugal
+3584;T-58;Portugal
+3585;T-58;Portugal
+3586;T-58;Portugal
+3587;T-58;Portugal
+3588;T-09;Brazil
+3589;T-09;Brazil
+3590;T-85;Wales
+3591;T-85;Wales
+3592;T-59;Qatar
+3593;T-59;Qatar
+3594;T-59;Qatar
+3595;T-59;Qatar
+3596;T-48;Netherlands
+3597;T-48;Netherlands
+3598;T-28;England
+3599;T-79;Tunisia
+3600;T-57;Poland
+3601;T-57;Poland
+3602;T-30;France
+3603;T-30;France
+3604;T-30;France
+3605;T-03;Argentina
+3606;T-03;Argentina
+3607;T-44;Japan
+3608;T-06;Belgium
+3609;T-06;Belgium
+3610;T-18;Croatia
+3611;T-18;Croatia
+3612;T-18;Croatia
+3613;T-18;Croatia
+3614;T-18;Croatia
+3615;T-73;Spain
+3616;T-73;Spain
+3617;T-11;Cameroon
+3618;T-11;Cameroon
+3619;T-11;Cameroon
+3620;T-11;Cameroon
+3621;T-11;Cameroon
+3622;T-11;Cameroon
+3623;T-71;South Korea
+3624;T-71;South Korea
+3625;T-71;South Korea
+3626;T-71;South Korea
+3627;T-71;South Korea
+3628;T-09;Brazil
+3629;T-58;Portugal
+3630;T-58;Portugal
+3631;T-25;Ecuador
+3632;T-25;Ecuador
+3633;T-25;Ecuador
+3634;T-48;Netherlands
+3635;T-48;Netherlands
+3636;T-38;Iran
+3637;T-85;Wales
+3638;T-85;Wales
+3639;T-85;Wales
+3640;T-04;Australia
+3641;T-79;Tunisia
+3642;T-57;Poland
+3643;T-57;Poland
+3644;T-63;Saudi Arabia
+3645;T-63;Saudi Arabia
+3646;T-63;Saudi Arabia
+3647;T-12;Canada
+3648;T-12;Canada
+3649;T-12;Canada
+3650;T-18;Croatia
+3651;T-17;Costa Rica
+3652;T-17;Costa Rica
+3653;T-17;Costa Rica
+3654;T-17;Costa Rica
+3655;T-17;Costa Rica
+3656;T-17;Costa Rica
+3657;T-44;Japan
+3658;T-44;Japan
+3659;T-44;Japan
+3660;T-32;Ghana
+3661;T-32;Ghana
+3662;T-71;South Korea
+3663;T-71;South Korea
+3664;T-71;South Korea
+3665;T-11;Cameroon
+3666;T-66;Serbia
+3667;T-66;Serbia
+3668;T-66;Serbia
+3669;T-66;Serbia
+3670;T-66;Serbia
+3671;T-48;Netherlands
+3672;T-48;Netherlands
+3673;T-48;Netherlands
+3674;T-48;Netherlands
+3675;T-03;Argentina
+3676;T-03;Argentina
+3677;T-03;Argentina
+3678;T-30;France
+3679;T-30;France
+3680;T-30;France
+3681;T-30;France
+3682;T-28;England
+3683;T-28;England
+3684;T-28;England
+3685;T-44;Japan
+3686;T-44;Japan
+3687;T-09;Brazil
+3688;T-09;Brazil
+3689;T-09;Brazil
+3690;T-09;Brazil
+3691;T-09;Brazil
+3692;T-47;Morocco
+3693;T-58;Portugal
+3694;T-58;Portugal
+3695;T-58;Portugal
+3696;T-58;Portugal
+3697;T-58;Portugal
+3698;T-58;Portugal
+3699;T-58;Portugal
+3700;T-18;Croatia
+3701;T-18;Croatia
+3702;T-48;Netherlands
+3703;T-48;Netherlands
+3704;T-48;Netherlands
+3705;T-48;Netherlands
+3706;T-47;Morocco
+3707;T-28;England
+3708;T-28;England
+3709;T-28;England
+3710;T-03;Argentina
+3711;T-03;Argentina
+3712;T-03;Argentina
+3713;T-30;France
+3714;T-30;France
+3715;T-18;Croatia
+3716;T-18;Croatia
+3717;T-18;Croatia
+3718;T-03;Argentina
+3719;T-03;Argentina
+3720;T-03;Argentina
+3721;T-03;Argentina
+3722;T-03;Argentina
+3723;T-03;Argentina

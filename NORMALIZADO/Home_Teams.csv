@@ -1,0 +1,3724 @@
+;matches_home_team_id;home_team_name;home_mens_team;home_womens_team;home_womens_team;home_region_name
+1;T-30;France;1;1;1;Europe
+6;T-30;France;1;1;1;Europe
+9;T-30;France;1;1;1;Europe
+12;T-30;France;1;1;1;Europe
+16;T-30;France;1;1;1;Europe
+17;T-83;United States;1;1;1;North America
+27;T-83;United States;1;1;1;North America
+38;T-83;United States;1;1;1;North America
+42;T-87;Yugoslavia;1;0;0;Europe
+71;T-87;Yugoslavia;1;0;0;Europe
+76;T-87;Yugoslavia;1;0;0;Europe
+79;T-61;Romania;1;0;0;Europe
+86;T-61;Romania;1;0;0;Europe
+92;T-61;Romania;1;0;0;Europe
+100;T-61;Romania;1;0;0;Europe
+104;T-03;Argentina;1;1;1;South America
+109;T-13;Chile;1;1;1;South America
+143;T-13;Chile;1;1;1;South America
+232;T-13;Chile;1;1;1;South America
+334;T-87;Yugoslavia;1;0;0;Europe
+377;T-87;Yugoslavia;1;0;0;Europe
+460;T-87;Yugoslavia;1;0;0;Europe
+478;T-87;Yugoslavia;1;0;0;Europe
+500;T-83;United States;1;1;1;North America
+542;T-83;United States;1;1;1;North America
+690;T-83;United States;1;1;1;North America
+722;T-84;Uruguay;1;0;0;South America
+770;T-13;Chile;1;1;1;South America
+775;T-03;Argentina;1;1;1;South America
+828;T-03;Argentina;1;1;1;South America
+866;T-03;Argentina;1;1;1;South America
+868;T-03;Argentina;1;1;1;South America
+877;T-03;Argentina;1;1;1;South America
+882;T-03;Argentina;1;1;1;South America
+887;T-03;Argentina;1;1;1;South America
+899;T-03;Argentina;1;1;1;South America
+902;T-03;Argentina;1;1;1;South America
+970;T-09;Brazil;1;1;1;South America
+1138;T-09;Brazil;1;1;1;South America
+1145;T-09;Brazil;1;1;1;South America
+1230;T-09;Brazil;1;1;1;South America
+1241;T-55;Paraguay;1;0;0;South America
+1256;T-84;Uruguay;1;0;0;South America
+1268;T-84;Uruguay;1;0;0;South America
+1274;T-84;Uruguay;1;0;0;South America
+1366;T-84;Uruguay;1;0;0;South America
+1383;T-03;Argentina;1;1;1;South America
+1393;T-03;Argentina;1;1;1;South America
+1410;T-03;Argentina;1;1;1;South America
+1483;T-03;Argentina;1;1;1;South America
+1494;T-03;Argentina;1;1;1;South America
+1500;T-03;Argentina;1;1;1;South America
+1505;T-03;Argentina;1;1;1;South America
+1590;T-03;Argentina;1;1;1;South America
+1611;T-03;Argentina;1;1;1;South America
+1635;T-03;Argentina;1;1;1;South America
+1648;T-03;Argentina;1;1;1;South America
+1660;T-84;Uruguay;1;0;0;South America
+1675;T-84;Uruguay;1;0;0;South America
+1855;T-84;Uruguay;1;0;0;South America
+1874;T-84;Uruguay;1;0;0;South America
+2079;T-84;Uruguay;1;0;0;South America
+2150;T-84;Uruguay;1;0;0;South America
+2209;T-84;Uruguay;1;0;0;South America
+2223;T-84;Uruguay;1;0;0;South America
+2242;T-84;Uruguay;1;0;0;South America
+2405;T-84;Uruguay;1;0;0;South America
+2409;T-84;Uruguay;1;0;0;South America
+2414;T-84;Uruguay;1;0;0;South America
+2456;T-84;Uruguay;1;0;0;South America
+2465;T-05;Austria;1;0;0;Europe
+2487;T-05;Austria;1;0;0;Europe
+2492;T-05;Austria;1;0;0;Europe
+2513;T-05;Austria;1;0;0;Europe
+2576;T-05;Austria;1;0;0;Europe
+2671;T-21;Czechoslovakia;1;0;0;Europe
+2714;T-21;Czechoslovakia;1;0;0;Europe
+2868;T-21;Czechoslovakia;1;0;0;Europe
+3022;T-31;Germany;1;1;1;Europe
+3155;T-31;Germany;1;1;1;Europe
+3232;T-31;Germany;1;1;1;Europe
+3327;T-31;Germany;1;1;1;Europe
+3347;T-31;Germany;1;1;1;Europe
+3545;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-19;Cuba;1;0;0;Caribbean
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-87;Yugoslavia;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-52;Northern Ireland;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-73;Spain;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-36;Hungary;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-28;England;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-51;North Korea;1;1;1;East Asia
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-28;England;1;1;1;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-28;England;1;1;1;Europe
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-84;Uruguay;1;0;0;South America
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-46;Mexico;1;1;1;North America
+;T-41;Italy;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-24;East Germany;1;0;0;Europe
+;T-24;East Germany;1;0;0;Europe
+;T-88;Zaire;1;0;0;Africa
+;T-88;Zaire;1;0;0;Africa
+;T-74;Sweden;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-64;Scotland;1;1;1;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-34;Haiti;1;0;0;Caribbean
+;T-04;Australia;1;1;1;Oceania
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-88;Zaire;1;0;0;Africa
+;T-88;Zaire;1;0;0;Africa
+;T-88;Zaire;1;0;0;Africa
+;T-24;East Germany;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-24;East Germany;1;0;0;Europe
+;T-24;East Germany;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-57;Poland;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-05;Austria;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-56;Peru;1;0;0;South America
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-56;Peru;1;0;0;South America
+;T-41;Italy;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-56;Peru;1;0;0;South America
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-13;Chile;1;1;1;South America
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-57;Poland;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-35;Honduras;1;0;0;Central America
+;T-35;Honduras;1;0;0;Central America
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-35;Honduras;1;0;0;Central America
+;T-86;West Germany;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-05;Austria;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-73;Spain;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-47;Morocco;1;0;0;Africa
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-58;Portugal;1;0;0;Europe
+;T-55;Paraguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-64;Scotland;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-39;Iraq;1;0;0;Middle East
+;T-39;Iraq;1;0;0;Middle East
+;T-39;Iraq;1;0;0;Middle East
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-36;Hungary;1;0;0;Europe
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-39;Iraq;1;0;0;Middle East
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-52;Northern Ireland;1;0;0;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-47;Morocco;1;0;0;Africa
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-72;Soviet Union;1;0;0;Europe, Asia
+;T-82;United Arab Emirates;1;0;0;Middle East
+;T-82;United Arab Emirates;1;0;0;Middle East
+;T-41;Italy;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-87;Yugoslavia;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-05;Austria;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-87;Yugoslavia;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-05;Austria;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-28;England;1;1;1;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-21;Czechoslovakia;1;0;0;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-86;West Germany;1;0;0;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-86;West Germany;1;0;0;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-15;Chinese Taipei;0;1;1;East Asia
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-41;Italy;1;1;1;Europe
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-06;Belgium;1;0;0;Europe
+;T-53;Norway;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-41;Italy;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-07;Bolivia;1;0;0;South America
+;T-07;Bolivia;1;0;0;South America
+;T-07;Bolivia;1;0;0;South America
+;T-07;Bolivia;1;0;0;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-06;Belgium;1;0;0;Europe
+;T-47;Morocco;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-10;Bulgaria;1;0;0;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-47;Morocco;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-55;Paraguay;1;0;0;South America
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-48;Netherlands;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-87;Yugoslavia;1;0;0;Europe
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-61;Romania;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-73;Spain;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-16;Colombia;1;1;1;South America
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-03;Argentina;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-61;Romania;1;0;0;Europe
+;T-61;Romania;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-61;Romania;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-30;France;1;1;1;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-60;Republic of Ireland;1;0;0;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-30;France;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-70;South Africa;1;1;1;Africa
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-44;Japan;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-50;Nigeria;1;1;1;Africa
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-80;Turkey;1;0;0;Europe, Asia
+;T-25;Ecuador;1;1;1;South America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-65;Senegal;1;0;0;Africa
+;T-31;Germany;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-14;China;1;1;1;East Asia
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-74;Sweden;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-14;China;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-78;Trinidad and Tobago;1;0;0;Caribbean
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-67;Serbia and Montenegro;1;0;0;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-02;Angola;1;0;0;Africa
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-30;France;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-31;Germany;1;1;1;Europe
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-20;Czech Republic;1;0;0;Europe
+;T-20;Czech Republic;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-77;Togo;1;0;0;Africa
+;T-77;Togo;1;0;0;Africa
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-55;Paraguay;1;0;0;South America
+;T-55;Paraguay;1;0;0;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-38;Iran;1;0;0;Middle East
+;T-38;Iran;1;0;0;Middle East
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-48;Netherlands;1;1;1;Europe
+;T-20;Czech Republic;1;0;0;Europe
+;T-20;Czech Republic;1;0;0;Europe
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-81;Ukraine;1;0;0;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-77;Togo;1;0;0;Africa
+;T-77;Togo;1;0;0;Africa
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-03;Argentina;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-53;Norway;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-84;Uruguay;1;0;0;South America
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-03;Argentina;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-01;Algeria;1;0;0;Africa
+;T-66;Serbia;1;0;0;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-42;Ivory Coast;1;1;1;Africa
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-35;Honduras;1;0;0;Central America
+;T-73;Spain;1;1;1;Europe
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-69;Slovenia;1;0;0;Europe
+;T-28;England;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-68;Slovakia;1;0;0;Europe
+;T-68;Slovakia;1;0;0;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-69;Slovenia;1;0;0;Europe
+;T-83;United States;1;1;1;North America
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-32;Ghana;1;1;1;Africa
+;T-55;Paraguay;1;0;0;South America
+;T-68;Slovakia;1;0;0;Europe
+;T-68;Slovakia;1;0;0;Europe
+;T-68;Slovakia;1;0;0;Europe
+;T-68;Slovakia;1;0;0;Europe
+;T-68;Slovakia;1;0;0;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-51;North Korea;1;1;1;East Asia
+;T-58;Portugal;1;0;0;Europe
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-75;Switzerland;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-55;Paraguay;1;0;0;South America
+;T-73;Spain;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-55;Paraguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-31;Germany;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-16;Colombia;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-53;Norway;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-31;Germany;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-51;North Korea;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-49;New Zealand;1;1;1;Oceania
+;T-12;Canada;1;1;1;North America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-29;Equatorial Guinea;0;1;1;Africa
+;T-29;Equatorial Guinea;0;1;1;Africa
+;T-29;Equatorial Guinea;0;1;1;Africa
+;T-51;North Korea;1;1;1;East Asia
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-46;Mexico;1;1;1;North America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-38;Iran;1;0;0;Middle East
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-44;Japan;1;1;1;East Asia
+;T-41;Italy;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-35;Honduras;1;0;0;Central America
+;T-35;Honduras;1;0;0;Central America
+;T-35;Honduras;1;0;0;Central America
+;T-03;Argentina;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-06;Belgium;1;0;0;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-41;Italy;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-33;Greece;1;0;0;Europe
+;T-08;Bosnia and Herzegovina;1;0;0;Europe
+;T-08;Bosnia and Herzegovina;1;0;0;Europe
+;T-08;Bosnia and Herzegovina;1;0;0;Europe
+;T-08;Bosnia and Herzegovina;1;0;0;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-35;Honduras;1;0;0;Central America
+;T-35;Honduras;1;0;0;Central America
+;T-35;Honduras;1;0;0;Central America
+;T-25;Ecuador;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-83;United States;1;1;1;North America
+;T-01;Algeria;1;0;0;Africa
+;T-01;Algeria;1;0;0;Africa
+;T-71;South Korea;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-31;Germany;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-49;New Zealand;1;1;1;Oceania
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-44;Japan;1;1;1;East Asia
+;T-30;France;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-14;China;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-83;United States;1;1;1;North America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-76;Thailand;0;1;1;South East Asia
+;T-76;Thailand;0;1;1;South East Asia
+;T-76;Thailand;0;1;1;South East Asia
+;T-76;Thailand;0;1;1;South East Asia
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-42;Ivory Coast;1;1;1;Africa
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-14;China;1;1;1;East Asia
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-25;Ecuador;1;1;1;South America
+;T-50;Nigeria;1;1;1;Africa
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-17;Costa Rica;1;1;1;Central America
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-14;China;1;1;1;East Asia
+;T-04;Australia;1;1;1;Oceania
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-26;Egypt;1;0;0;Africa
+;T-47;Morocco;1;0;0;Africa
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-56;Peru;1;0;0;South America
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-31;Germany;1;1;1;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-79;Tunisia;1;0;0;Africa
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-58;Portugal;1;0;0;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-38;Iran;1;0;0;Middle East
+;T-22;Denmark;1;1;1;Europe
+;T-22;Denmark;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-38;Iran;1;0;0;Middle East
+;T-38;Iran;1;0;0;Middle East
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-22;Denmark;1;1;1;Europe
+;T-37;Iceland;1;0;0;Europe
+;T-37;Iceland;1;0;0;Europe
+;T-37;Iceland;1;0;0;Europe
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-46;Mexico;1;1;1;North America
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-65;Senegal;1;0;0;Africa
+;T-28;England;1;1;1;Europe
+;T-54;Panama;1;0;0;Central America
+;T-54;Panama;1;0;0;Central America
+;T-54;Panama;1;0;0;Central America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-16;Colombia;1;1;1;South America
+;T-16;Colombia;1;1;1;South America
+;T-84;Uruguay;1;0;0;South America
+;T-84;Uruguay;1;0;0;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-62;Russia;1;1;1;Europe, Asia
+;T-30;France;1;1;1;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-12;Canada;1;1;1;North America
+;T-49;New Zealand;1;1;1;Oceania
+;T-13;Chile;1;1;1;South America
+;T-13;Chile;1;1;1;South America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-50;Nigeria;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-31;Germany;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-04;Australia;1;1;1;Oceania
+;T-70;South Africa;1;1;1;Africa
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-28;England;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-14;China;1;1;1;East Asia
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-70;South Africa;1;1;1;Africa
+;T-50;Nigeria;1;1;1;Africa
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-41;Italy;1;1;1;Europe
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-43;Jamaica;1;1;1;Caribbean
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-64;Scotland;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-76;Thailand;0;1;1;South East Asia
+;T-76;Thailand;0;1;1;South East Asia
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-74;Sweden;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-53;Norway;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-41;Italy;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-59;Qatar;1;0;0;Middle East
+;T-59;Qatar;1;0;0;Middle East
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-65;Senegal;1;0;0;Africa
+;T-65;Senegal;1;0;0;Africa
+;T-83;United States;1;1;1;North America
+;T-83;United States;1;1;1;North America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-22;Denmark;1;1;1;Europe
+;T-46;Mexico;1;1;1;North America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-47;Morocco;1;0;0;Africa
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-31;Germany;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-75;Switzerland;1;1;1;Europe
+;T-84;Uruguay;1;0;0;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-85;Wales;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-59;Qatar;1;0;0;Middle East
+;T-59;Qatar;1;0;0;Middle East
+;T-59;Qatar;1;0;0;Middle East
+;T-59;Qatar;1;0;0;Middle East
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-79;Tunisia;1;0;0;Africa
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-44;Japan;1;1;1;East Asia
+;T-06;Belgium;1;0;0;Europe
+;T-06;Belgium;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-73;Spain;1;1;1;Europe
+;T-73;Spain;1;1;1;Europe
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-11;Cameroon;1;1;1;Africa
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-25;Ecuador;1;1;1;South America
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-38;Iran;1;0;0;Middle East
+;T-85;Wales;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-85;Wales;1;0;0;Europe
+;T-04;Australia;1;1;1;Oceania
+;T-79;Tunisia;1;0;0;Africa
+;T-57;Poland;1;0;0;Europe
+;T-57;Poland;1;0;0;Europe
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-63;Saudi Arabia;1;0;0;Middle East
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-12;Canada;1;1;1;North America
+;T-18;Croatia;1;0;0;Europe
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-17;Costa Rica;1;1;1;Central America
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-32;Ghana;1;1;1;Africa
+;T-32;Ghana;1;1;1;Africa
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-71;South Korea;1;1;1;East Asia
+;T-11;Cameroon;1;1;1;Africa
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-66;Serbia;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-44;Japan;1;1;1;East Asia
+;T-44;Japan;1;1;1;East Asia
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-09;Brazil;1;1;1;South America
+;T-47;Morocco;1;0;0;Africa
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-58;Portugal;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-48;Netherlands;1;1;1;Europe
+;T-47;Morocco;1;0;0;Africa
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-28;England;1;1;1;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-30;France;1;1;1;Europe
+;T-30;France;1;1;1;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-18;Croatia;1;0;0;Europe
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America
+;T-03;Argentina;1;1;1;South America

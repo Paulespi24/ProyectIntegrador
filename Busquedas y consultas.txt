@@ -1,0 +1,45 @@
+SELECT * FROM proyecto.alineacionesxtorneo;
+
+SELECT * FROM proyecto.partidosygoles;
+
+SELECT * FROM proyecto.indicadores;
+
+SELECT 'PartidosYGoles'  As Tabla, 'Indicador General' AS TipoIndicador, 'Cantidad de Registros' AS Indicador, COUNT(*) AS Valor
+FROM PartidosYGoles ;
+
+SELECT squads_player_id, squads_tournament_id, squads_team_id, ' -> ' AS Commentario, squads_shirt_number, squads_position_name
+FROM `AlineacionesXTorneo`;
+
+SELECT DISTINCT squads_player_id, squads_tournament_id, squads_team_id, ' -> ' AS comentario, players_family_name, players_given_name
+FROM `AlineacionesXTorneo` ;
+
+SELECT DISTINCT squads_player_id, ' -> ' AS comentario, players_family_name, players_given_name, players_birth_date, players_female, players_goal_keeper, players_defender, players_midfielder, players_forward
+FROM `AlineacionesXTorneo` ;
+
+SELECT squads_player_id, players_family_name, players_given_name, players_birth_date, players_female, players_goal_keeper, players_defender, players_midfielder, players_forward, 
+	(players_goal_keeper + players_defender + players_midfielder + players_forward) AS Calculo
+FROM players	
+ORDER BY Calculo DESC ;
+
+SELECT DISTINCT squads_player_id, players_family_name, players_given_name, players_birth_date
+FROM players  ;	
+
+SELECT DISTINCT players_family_name, players_given_name
+FROM players  ;
+
+# buscar si existen personas con el mismo apellido y nombre que tengan diferentes player_id
+
+#10401 rows
+SELECT DISTINCT squads_player_id, players_family_name, players_given_name, players_birth_date
+FROM players  ;	
+
+#10399 rows
+SELECT DISTINCT players_family_name, players_given_name, players_birth_date
+FROM players  ;	
+
+#10324 rows
+SELECT DISTINCT players_family_name, players_given_name
+FROM players  ;
+
+SELECT distinct * FROM alineacionesxtorneo
+INNER JOIN partidosygoles ON alineacionesxtorneo.squads_tournament_id = partidosygoles.matches_tournament_id;
